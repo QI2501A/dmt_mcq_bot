@@ -1,0 +1,2632 @@
+[Source: Topic 7-2_11to23.xlsx | Page: 11]
+Q. Which color combination is referred to as contrast harmony and produces a strong contrast, resulting in brighter and more vivid colors?
+A. Warm and Cool colors
+B. Nature Colors
+C. Analogous colors
+D. Complementary colors
+Answer: D
+
+[Source: Topic 7-2_11to23.xlsx | Page: 13]
+Q. What are the two broad categories into which colors can be classified?
+A. Primary and Secondary Colors
+B. Additive and Subtractive Colors
+C. Tints and Shades
+D. Warm and Cool Colors
+Answer: D
+
+[Source: Topic 7-2_11to23.xlsx | Page: 14]
+Q. What is the term used to describe the brightness or dullness of a color, often used interchangeably with the terms "chroma" and "intensity"?
+A. Hue
+B. Saturation
+C. Tone
+D. Value
+Answer: B
+
+[Source: Topic 7-2_11to23.xlsx | Page: 16]
+Q. What color mixing method involves projected beams of colored light to form other colors, with red, green, and blue considered the primary colors?
+A. Subtractive Color
+B. Additive Color
+C. Spot Color
+D. CMYK
+Answer: B
+
+[Source: Topic 7-2_11to23.xlsx | Page: 18]
+Q. Which printing process, also known as the Pantone Matching System, applies premixed ink directly to the page and is particularly useful for brochures and stationery?
+A. Subtractive Color Printing
+B. CMYK Printing Process
+C. Spot Color Printing Process
+D. Additive Color Printing
+Answer: C
+
+[Source: Topic 7-2_11to23.xlsx | Page: 16]
+Q. What is the result of mixing Red, Green, and Blue lights in additive color mixing?
+A. Black
+B. Cyan
+C. Magenta
+D. White
+Answer: D
+
+[Source: Topic 7-2_11to23.xlsx | Page: 22]
+Q. When a designer aims to replicate a specific color, like a logo color, in a printed piece and wants to maintain a limited budget, which printing process should they consider?
+A. Additive Color Printing
+B. Subtractive Color Printing
+C. CMYK Printing Process
+D. Spot Color Printing Process
+Answer: D
+
+[Source: Topic 7-2_11to23.xlsx | Page: 17]
+Q. What color is created when white light (RGB) has the Green (G) component subtracted from it, according to subtractive color theory?
+A. Cyan
+B. Magenta
+C. Yellow
+D. Black
+Answer: B
+
+[Source: Topic 7-2_11to23.xlsx | Page: 21]
+Q. Which of the following is NOT a factor that influences the appearance of colors on a printed document, according to the provided text?
+A. Inconsistency in the printer ink
+B. Lighting conditions
+C. The use of spot or process colors
+D. Type of paper
+Answer: C
+
+[Source: Topic 7-2_11to23.xlsx | Page: 14]
+Q. In color theory, what does the term "hue" refer to?
+A. The brightness of a color
+B. The name of a color
+C. The saturation of a color
+D. The temperature of a color (warm/cool)
+Answer: B
+
+[Source: Topic 7-2_11to23.xlsx | Page: 20]
+Q. Which printing method utilizes Cyan, Magenta, Yellow, and Black inks to reproduce a wide spectrum of colors in photographs and designs?
+A. Spot Color Printing Process
+B. Additive Color Printing
+C. Subtractive Color Printing
+D. CMYK Printing Process
+Answer: D
+
+[Source: Topic 7-2_11to23.xlsx | Page: 18]
+Q. What color system is the dominant standard in spot color printing, often used for precise color matching in printed materials?
+A. CMYK
+B. RGB
+C. PANTONE
+D. Hexadecimal
+Answer: C
+
+[Source: Topic 7-2_11to23.xlsx | Page: 15]
+Q. What is a "tint" in the context of color theory?
+A. A color mixed with black
+B. A pure, undiluted color
+C. A color mixed with white
+D. A color mixed with gray
+Answer: C
+
+[Source: Topic 7-2_11to23.xlsx | Page: 11]
+Q. According to the text, which of the following color combinations exemplify the principle of complementary colors in nature?
+A. Red and Blue
+B. Yellow and Green
+C. Orange and Purple
+D. Red and Green
+Answer: D
+
+[Source: Topic 7-2_11to23.xlsx | Page: 19]
+Q. If a design has more than two colors and cost-effectiveness is a priority, the text suggests printing it using which method?
+A. Spot color printing
+B. Additive color mixing
+C. CMYK process printing
+D. Converting all colors to grayscale
+Answer: C
+
+[Source: Topic 7-2_11to23.xlsx | Page: 11]
+Q. What type of color harmony is achieved by combining colors that are opposite each other on the chromatic circle?
+A. Analogous Harmony
+B. Nature Harmony
+C. Complementary Harmony
+D. Warm/Cool Harmony
+Answer: C
+
+[Source: Topic 7-2_11to23.xlsx | Page: 16]
+Q. What color is considered absent in additive color mixing, which involves combining projected beams of colored light to create other colors?
+A. Cyan
+B. Magenta
+C. Black
+D. Yellow
+Answer: C
+
+[Source: Topic 11-1_11to20.xlsx | Page: 20]
+Q. Which audio file format is known for being uncompressed and offering high quality, but at the expense of larger file sizes?
+A. MP3
+B. AIFF
+C. WAV
+D. AAC
+Answer: C. WAV
+
+[Source: Topic 11-1_11to20.xlsx | Page: 12]
+Q. What does the acronym "kbps" stand for when discussing audio file resolution?
+A. Kilobytes per sample
+B. Kilobits per second
+C. Kilohertz per second
+D. Kilobits per sample
+Answer: B. KILOBITS PER SECOND
+
+[Source: Topic 11-1_11to20.xlsx | Page: 11]
+Q. Which audio file format is specifically mentioned as often being encoded using the OCM format?
+A. AIFF
+B. MP3
+C. WAV
+D. WMA
+Answer: C. WAV
+
+[Source: Topic 11-1_11to20.xlsx | Page: 11]
+Q. According to the text, which audio format can contain multiple types of audio and video data?
+A. AIFF
+B. MP3
+C. WAV
+D. Matroska MKV
+Answer: D. MATROSKA MKV
+
+[Source: Topic 11-1_11to20.xlsx | Page: 15]
+Q. Which audio compression scheme does MP3 utilize to reduce file size while aiming to preserve sound quality for human listeners?
+A. Frequency Modulation (FM)
+B. Pulse Code Modulation (PCM)
+C. Phase Distortion Synthesis
+D. Psychoacoustic Compression
+Answer: D. PSYCHOACOUSTIC COMPRESSION
+
+[Source: Topic 11-1_11to20.xlsx | Page: 16]
+Q. What approximate compression ratio does the MP3 format (specifically Layer 3) achieve compared to the original CD audio data?
+A. 2:1
+B. 6:1
+C. 12:1
+D. 24:1
+Answer: C. 12:1
+
+[Source: Topic 11-1_11to20.xlsx | Page: 14]
+Q. Which of the following is a compressed audio format that could be found as part of an iTunes Audio file?
+A. .aiff
+B. .wav
+C. .cda
+D. .m4a
+Answer: D. .M4A
+
+[Source: Topic 11-1_11to20.xlsx | Page: 20]
+Q. What is the approximate file size of a 3-minute stereo audio recording saved in WAV format, based on the information provided in the text?
+A. 3 MB
+B. 10 MB
+C. 18 MB
+D. 30 MB
+Answer: D. 30 MB
+
+[Source: Topic 11-1_11to20.xlsx | Page: 17-18]
+Q. Which statement about AIFF files is NOT supported by the text?
+A. AIFF was developed by Apple.
+B. AIFF is a common audio format for Macintosh computers.
+C. AIFF files always have the extension ".aif".
+D. AIFF files can be large due to lack of compression.
+Answer: C. AIFF FILES ALWAYS HAVE THE EXTENSION ".AIF".
+
+[Source: Topic 11-1_11to20.xlsx | Page: 13]
+Q. Which of the following file extensions would indicate a Windows Media Audio file?
+A. .cda
+B. .mp3
+C. .wma
+D. .aif
+Answer: C. .WMA
+
+[Source: Topic 12-3_1to10.xlsx | Page: Page 5]
+Q. Which video file format is specifically designed to run on Windows devices and is known for its high compression ratio?
+A. .mov
+B. .avi
+C. .wmv
+D. .mp4
+Answer: CHOICE C: .WMV
+
+[Source: Topic 12-3_1to10.xlsx | Page: Page 3]
+Q. Which video file format is known for its exceptionally high-quality audio fidelity and wide compatibility across operating systems?
+A. .mp4
+B. .avi
+C. .wmv
+D. .mov
+Answer: CHOICE B: .AVI
+
+[Source: Topic 12-3_1to10.xlsx | Page: Page 8]
+Q. Which video file format is known for its ability to handle various formats of digital video, pictures, sound, and panoramic images?
+A. .avi
+B. .wmv
+C. .asf
+D. .mov
+Answer: CHOICE D: .MOV
+
+[Source: Topic 12-3_1to10.xlsx | Page: Page 7]
+Q. Which video file format is specifically intended for streaming and allows playback to begin before the entire file is downloaded?
+A. .mp4
+B. .wmv
+C. .asf
+D. .mov
+Answer: CHOICE C: .ASF
+
+[Source: Topic 12-3_1to10.xlsx | Page: Page 10]
+Q. Which video file format is highly championed by YouTube and often used for online video streaming due to its ability to maintain quality even with compression?
+A. .avi
+B. .mov
+C. .asf
+D. .mp4
+Answer: CHOICE D: .MP4
+
+[Source: Topic 12-3_1to10.xlsx | Page: Page 5]
+Q. Which video file format can pose challenges when editing or playing on non-Microsoft devices due to its proprietary nature?
+A. .mov
+B. .avi
+C. .mp4
+D. .wmv
+Answer: CHOICE D: .WMV
+
+[Source: Topic 12-3_1to10.xlsx | Page: Page 9]
+Q. A video editor complains that while trying to use footage from a recent project, they can't open the files on their computer. The files are very large and were originally created on a Mac. Which video file format are they MOST likely trying to use?
+A. .wmv
+B. .mp4
+C. .avi
+D. .mov
+Answer: CHOICE D: .MOV
+
+[Source: Topic 12-3_1to10.xlsx | Page: Page 4]
+Q. Which video file format could present problems when trying to share and play back on a different computer if it uses a specific codec for compression?
+A. .mov
+B. .asf
+C. .avi
+D. .mp4
+Answer: CHOICE C: .AVI
+
+[Source: Topic 12-3_1to10.xlsx | Page: Page 10]
+Q. A student wants to incorporate subtitles into their video project. Which file format would offer the easiest integration of closed captioning for this purpose?
+A. .avi
+B. .wmv
+C. .mov
+D. .mp4
+Answer: CHOICE D: .MP4
+
+[Source: Topic 12-3_1to10.xlsx | Page: Page 10]
+Q. Which file format would be MOST suitable for a student creating a multimedia presentation that needs to incorporate 3D objects?
+A. .avi
+B. .mov
+C. .wmv
+D. .mp4
+Answer: CHOICE D: .MP4
+
+[Source: Topic 8_12to22.xlsx | Page: 15]
+Q. Which of the following audio file formats is classified as a lossless compression format?
+A. MP3
+B. WMA
+C. WAV
+D. AAC
+Answer: C. WAV
+
+[Source: Topic 8_12to22.xlsx | Page: 13]
+Q. What method does GIF compression primarily use to reduce file size?
+A. Run-length encoding
+B. Huffman coding
+C. Discrete cosine transform
+D. Vector quantization
+Answer: A. RUN-LENGTH ENCODING
+
+[Source: Topic 8_12to22.xlsx | Page: 14]
+Q. Which of the following is a benefit of converting a color image to grayscale?
+A. Increased color depth
+B. Smaller file size
+C. Enhanced image detail
+D. Improved color accuracy
+Answer: B. SMALLER FILE SIZE
+
+[Source: Topic 8_12to22.xlsx | Page: 21]
+Q. Which video compression standard is known for its flexibility in editing, despite potentially larger file sizes?
+A. MPEG-1
+B. MPEG-4
+C. H.264
+D. Motion JPEG (M-JPEG)
+Answer: D. MOTION JPEG (M-JPEG)
+
+[Source: Topic 8_12to22.xlsx | Page: 15]
+Q. What is a key characteristic of lossy audio compression formats like MP3?
+A. They preserve the original audio data perfectly.
+B. They are rarely used due to large file sizes.
+C. They are computationally expensive to decode.
+D. They remove sounds less perceptible to humans.
+Answer: D. THEY REMOVE SOUNDS LESS PERCEPTIBLE TO HUMANS.
+
+[Source: Topic 8_12to22.xlsx | Page: 19]
+Q. Which statement best describes the relationship between compression level and video quality in video compression codecs?
+A. Higher compression always results in better video quality.
+B. Compression level has no impact on video quality.
+C. Lower compression generally yields better video quality but requires more storage.
+D. Lower compression always results in a smaller file size and better quality.
+Answer: C. LOWER COMPRESSION GENERALLY YIELDS BETTER VIDEO QUALITY BUT REQUIRES MORE STORAGE.
+
+[Source: Topic 8_12to22.xlsx | Page: 20-21]
+Q. What is the primary difference between inter-frame and intra-frame video compression?
+A. Inter-frame is used for audio, while intra-frame is for video.
+B. Inter-frame compresses groups of frames, while intra-frame compresses each frame individually.
+C. Inter-frame is lossless, while intra-frame is lossy.
+D. Inter-frame is a newer technology than intra-frame.
+Answer: B. INTER-FRAME COMPRESSES GROUPS OF FRAMES, WHILE INTRA-FRAME COMPRESSES EACH FRAME INDIVIDUALLY.
+
+[Source: Topic 8_12to22.xlsx | Page: 16]
+Q. According to the text, what makes lossless audio formats ideal for preserving music quality?
+A. They utilize psychoacoustic modeling to remove unnecessary data.
+B. They achieve the highest compression ratios for efficient storage.
+C. They retain all original audio data, ensuring faithful reproduction.
+D. They are universally compatible with all audio playback devices.
+Answer: C. THEY RETAIN ALL ORIGINAL AUDIO DATA, ENSURING FAITHFUL REPRODUCTION.
+
+[Source: Topic 8_12to22.xlsx | Page: 18]
+Q. What is the primary function of a video compression codec?
+A. To enhance the color depth of video content.
+B. To convert video content into an analog format.
+C. To reduce the amount of data needed to store and transmit video.
+D. To increase the resolution and frame rate of video content.
+Answer: C. TO REDUCE THE AMOUNT OF DATA NEEDED TO STORE AND TRANSMIT VIDEO.
+
+[Source: Topic 8_12to22.xlsx | Page: 19]
+Q. Which of the following issues is a common artifact of highly compressed video?
+A. Increased file size
+B. Improved color accuracy
+C. Blockiness in the image
+D. Smoother frame transitions
+Answer: C. BLOCKINESS IN THE IMAGE
+
+[Source: Topic 8_12to22.xlsx | Page: 17]
+Q. MP3 files are most closely associated with which broader multimedia standard?
+A. GIF
+B. JPEG
+C. WAV
+D. MPEG
+Answer: D. MPEG
+
+[Source: Topic 12-1_1to10.xlsx | Page: N/A]
+Q. Which of the following is NOT a disadvantage of the Encapsulated PostScript (EPS) file format?
+A. EPS files are relatively protected and cannot be edited once placed on a page.
+B. EPS files require specific software, such as Adobe products, to be fully utilized.
+C. The quality seen on the monitor may not match the final printed product if the computer does not support PostScript.
+D. EPS files have a slightly larger file size compared to TIFF.
+Answer: A
+
+[Source: Topic 12-1_1to10.xlsx | Page: N/A]
+Q. According to the document, which two image file formats are most commonly used in graphic production?
+A. JPEG and PNG
+B. GIF and PSD
+C. EPS and TIFF
+D. BMP and PDF
+Answer: C
+
+[Source: Topic 12-1_1to10.xlsx | Page: N/A]
+Q. What is the primary advantage of the JPEG file format?
+A. Supports animations
+B. Uses lossless compression
+C. Widely compatible across different platforms
+D. Can display images with 24-bit color depth
+Answer: C
+
+[Source: Topic 12-1_1to10.xlsx | Page: N/A]
+Q. Which image file format uses alpha transparency to save transparent pixels with 256 levels of opacity?
+A. JPEG
+B. GIF
+C. PNG
+D. EPS
+Answer: C
+
+[Source: Topic 12-1_1to10.xlsx | Page: N/A]
+Q. What is a key disadvantage of the GIF file format, particularly for web use?
+A. Limited color depth to 256 colors
+B. Inability to support transparency
+C. Requires specific software for editing
+D. Large file size
+Answer: D
+
+[Source: Topic 12-1_1to10.xlsx | Page: N/A]
+Q. Which file format was specifically developed as an improvement over the GIF file format?
+A. PNG
+B. JPEG
+C. EPS
+D. TIFF
+Answer: A
+
+[Source: Topic 12-1_1to10.xlsx | Page: N/A]
+Q. What makes the JPEG file format unsuitable for images that require repeated editing?
+A. Its limited color depth leads to banding artifacts.
+B. Its large file size makes it difficult to transfer and store.
+C. Lossy compression results in degradation with each save.
+D. It cannot handle images with transparent backgrounds.
+Answer: C
+
+[Source: Topic 12-1_1to10.xlsx | Page: N/A]
+Q. What is a significant limitation of EPS files for someone new to desktop publishing?
+A. They are limited to grayscale images.
+B. They are primarily designed for use with Macintosh computers.
+C. They require specific software and printers for full functionality.
+D. They cannot be uploaded and shared online.
+Answer: C
+
+[Source: Topic 12-1_1to10.xlsx | Page: N/A]
+Q. Which feature of the EPS file format makes it particularly suitable for professional printing purposes?
+A. Its ability to support simple animations.
+B. Its universal compatibility across different operating systems.
+C. Its capacity to store information about halftone screens and print settings.
+D. Its use of lossless compression, preserving image quality.
+Answer: C
+
+[Source: Topic 12-1_1to10.xlsx | Page: N/A]
+Q. An EPS file is comprised of two main parts. What are they?
+A. A high-resolution bitmap and a vector graphic.
+B. A low-resolution preview image and a PostScript-based image.
+C. A thumbnail preview and a full-resolution JPEG.
+D. A CMYK color image and an RGB color image.
+Answer: B
+
+[Source: Topic 7-3_11to17.xlsx | Page: N/A]
+Q. Which color, when used excessively, can lead to feelings of depression and sorrow?
+A. Yellow
+B. Green
+C. Purple
+D. Blue
+Answer: D
+
+[Source: Topic 7-3_11to17.xlsx | Page: N/A]
+Q. Which color is associated with both balance and potential jealousy?
+A. Orange
+B. Blue
+C. Green
+D. Purple
+Answer: C
+
+[Source: Topic 7-3_11to17.xlsx | Page: N/A]
+Q. Overuse of which color can lead to feelings of exhaustion and heightened mental activity, according to the text?
+A. Orange
+B. Yellow
+C. Green
+D. White
+Answer: B
+
+[Source: Topic 7-3_11to17.xlsx | Page: N/A]
+Q. According to the text, an abundance of which color might evoke a sense of emptiness?
+A. Purple
+B. Blue
+C. Green
+D. White
+Answer: D
+
+[Source: Topic 7-3_11to17.xlsx | Page: N/A]
+Q. Which color is said to represent cheerfulness, clarity, and a sense of freedom?
+A. Blue
+B. Yellow
+C. Green
+D. Purple
+Answer: B
+
+[Source: Topic 7-3_11to17.xlsx | Page: N/A]
+Q. According to the text, excessive use of which color is most likely to provoke anger?
+A. Orange
+B. Yellow
+C. Blue
+D. Purple
+Answer: A
+
+[Source: Topic 7-3_11to17.xlsx | Page: N/A]
+Q. Which color is associated with feelings of peace, loyalty, and sincerity, according to the text?
+A. Green
+B. Purple
+C. White
+D. Blue
+Answer: D
+
+[Source: Topic 9-1.xlsx | Page: N/A]
+Q. What is the primary purpose of using batch processing in digital media?
+A. To manually edit individual images one by one.
+B. To process a large number of files automatically without requiring user interaction for each file.
+C. To create a slideshow presentation with background music.
+D. To store and organize digital media files in a hierarchical structure.
+Answer: CHOICE B
+
+[Source: Topic 9-1.xlsx | Page: N/A]
+Q. Before running a batch operation to resize images, what two folders should you create on your desktop, according to the instructions in the document?
+A. Input and "Output"
+B. Large and "Small"
+C. Edited and "Unedited"
+D. Originals and "Resized"
+Answer: CHOICE D
+
+[Source: Topic 9-1.xlsx | Page: N/A]
+Q. According to the document, what is the name of the Photoshop action you are instructed to create for batch resizing images?
+A. Batch Resize
+B. Resize Images
+C. Resize for Web
+D. Image Resizer
+Answer: CHOICE C
+
+[Source: Topic 9-1.xlsx | Page: N/A]
+Q. When setting up a batch resize operation in Photoshop, according to the document, where should you navigate to select the folder containing the images you want to resize?
+A. The "Destination" header within the Batch window.
+B. The "Actions" panel within the main Photoshop interface.
+C. The "File" menu in the main Photoshop menu bar.
+D. The "Source" header within the Batch window.
+Answer: CHOICE D
+
+[Source: Topic 9-1.xlsx | Page: N/A]
+Q. According to the document, what should you do if you want to rename the images during the batch resize process?
+A. Rename the files manually after the batch operation is complete.
+B. Use the options under the "File Naming" sub-header in the Batch window.
+C. The document does not provide instructions for renaming files during batch processing.
+D. Use a separate file renaming software after the batch resize is complete.
+Answer: CHOICE B
+
+[Source: Topic 9-1.xlsx | Page: N/A]
+Q. In the provided document, what method is used to ensure a smooth batch operation by preventing unnecessary dialog boxes from interrupting the process?
+A. Enabling "Quiet Mode" in Photoshop's preferences.
+B. Using a dedicated batch processing plugin.
+C. Checking the boxes to suppress warnings and options dialogs.
+D. Manually closing dialog boxes as they appear.
+Answer: CHOICE C
+
+[Source: Topic 9-1.xlsx | Page: N/A]
+Q. What menu path in Photoshop leads you to the function that initiates the batch processing operation, as described in the document?
+A. Window -> Actions -> Batch
+B. Image -> Adjustments -> Batch
+C. File -> Automate -> Batch
+D. Layer -> Smart Objects -> Batch Settings
+Answer: CHOICE C
+
+[Source: Topic 9-1.xlsx | Page: N/A]
+Q. According to the document, where do you place the images that need to be resized before initiating the batch process?
+A. In a new Photoshop library.
+B. In the "Resized" folder on your desktop.
+C. In the clipboard.
+D. In the "Originals" folder on your desktop.
+Answer: CHOICE D
+
+[Source: Topic 9-1.xlsx | Page: N/A]
+Q. According to the document, what is the final step in setting up the batch resize operation before running it?
+A. Choosing the location to save the processed images.
+B. Naming the new action.
+C. Selecting the desired image format for the resized images.
+D. Choosing which specific images from the source folder to process.
+Answer: CHOICE A
+
+[Source: Topic 9-1.xlsx | Page: N/A]
+Q. What is the primary reason the document instructs you to create a new action and record the resizing process before running a batch operation in Photoshop?
+A. To avoid having to repeat the resizing steps for each image.
+B. To automatically correct any color imperfections in the images.
+C. To apply a specific artistic filter to all images in the batch.
+D. To create a backup of the original images before they are resized.
+Answer: CHOICE A
+
+[Source: Topic 9-1.xlsx | Page: N/A]
+Q. According to the document, what is the purpose of clicking the "Stop" button in the Actions palette after resizing the image in the recorded action?
+A. It saves the recorded action for future use.
+B. It indicates the end of the batch resizing process.
+C. It prevents further actions from being accidentally recorded.
+D. It reverts the image back to its original size.
+Answer: CHOICE C
+
+[Source: Topic 9-1.xlsx | Page: N/A]
+Q. In the context of this document, what does "manual intervention" refer to when describing batch processing?
+A. Writing the code for image processing from scratch.
+B. Physically adjusting the size of each image using the mouse.
+C. Inputting commands for each image file individually during the process.
+D. Using pre-set actions in Photoshop instead of creating your own.
+Answer: CHOICE C
+
+[Source: Topic 7-2_1to10.xlsx | Page: 5]
+Q. Which of the following is NOT a primary color?
+A. Red
+B. Green
+C. Blue
+D. Yellow
+Answer: GREEN
+
+[Source: Topic 7-2_1to10.xlsx | Page: 6]
+Q. What colors are mixed to create the secondary color green?
+A. Red and Yellow
+B. Blue and Red
+C. Blue and Yellow
+D. Red and Orange
+Answer: BLUE AND YELLOW
+
+[Source: Topic 7-2_1to10.xlsx | Page: 9]
+Q. What type of color harmony uses three colors that are next to each other on the color wheel?
+A. Analogous
+B. Complementary
+C. Contrasting
+D. Tertiary
+Answer: ANALOGOUS
+
+[Source: Topic 7-2_1to10.xlsx | Page: 10]
+Q. When two complementary colors are mixed together, what type of color is created?
+A. Secondary Color
+B. Tertiary Color
+C. Analogous Color
+D. Neutral Color
+Answer: NEUTRAL COLOR
+
+[Source: Topic 7-2_1to10.xlsx | Page: 4]
+Q. What is the most popular color model for web design?
+A. CMYK
+B. Hexadecimal
+C. Pantone
+D. RGB
+Answer: RGB
+
+[Source: Topic 7-2_1to10.xlsx | Page: 4]
+Q. How many tertiary colors are typically represented on a 12-part color wheel?
+A. 3
+B. 6
+C. 9
+D. 12
+Answer: 6
+
+[Source: Topic 7-2_1to10.xlsx | Page: 7]
+Q. Which of the following is a tertiary color?
+A. Red
+B. Orange
+C. Green
+D. Red-Orange
+Answer: RED-ORANGE
+
+[Source: Topic 7-2_1to10.xlsx | Page: 10]
+Q. Which color pairing is an example of complementary colors?
+A. Red and Red-Orange
+B. Blue and Orange
+C. Yellow and Yellow-Green
+D. Blue and Blue-Violet
+Answer: BLUE AND ORANGE
+
+[Source: Topic 7-2_1to10.xlsx | Page: 6]
+Q. What is the result of mixing blue and red primary colors?
+A. Green
+B. Orange
+C. Violet
+D. Yellow
+Answer: VIOLET
+
+[Source: Topic 7-2_1to10.xlsx | Page: 7]
+Q. Which of the following is NOT a key element used to create a tertiary color?
+A. Primary Color
+B. Analogous Color
+C. Secondary Color
+D. Color Wheel
+Answer: ANALOGOUS COLOR
+
+[Source: Topic 11-1_21to33.xlsx | Page: 30]
+Q. Which video file format was specifically designed for transmitting multimedia content between 3G cell phones and the internet?
+A. .avi
+B. .mov
+C. .mp4
+D. .3gp
+Answer: D. .3GP
+
+[Source: Topic 11-1_21to33.xlsx | Page: 21]
+Q. Which audio format is primarily associated with Chinese MP3 and MP4 players, often used for their lowest-quality recording setting?
+A. .avi
+B. .wma
+C. .act
+D. .mp3
+Answer: C. .ACT
+
+[Source: Topic 11-1_21to33.xlsx | Page: 26]
+Q. Which video format is a subset of WMV and is primarily intended for streaming from sources like digital media servers and hard disks?
+A. .avi
+B. .mov
+C. .asf
+D. .rmvb
+Answer: C. .ASF
+
+[Source: Topic 11-1_21to33.xlsx | Page: 22]
+Q. Which audio format is known for its use of Digital Rights Management (DRM) to deter piracy?
+A. .act
+B. .wav
+C. .mp3
+D. .wma
+Answer: D. .WMA
+
+[Source: Topic 11-1_21to33.xlsx | Page: 23]
+Q. What distinguishes raw video master clip formats from sharing formats?
+A. Raw formats are smaller in file size
+B. Raw formats are used for finalized videos
+C. Raw formats have lower resolution
+D. Raw formats have higher resolution and larger file size
+Answer: D. RAW FORMATS HAVE HIGHER RESOLUTION AND LARGER FILE SIZE
+
+[Source: Topic 11-1_21to33.xlsx | Page: 27]
+Q. Which of the following video formats is NOT developed by Microsoft?
+A. .avi
+B. .wmv
+C. .mov
+D. .asf
+Answer: C. .MOV
+
+[Source: Topic 11-1_21to33.xlsx | Page: 31]
+Q. Which video file format utilizes constant bit rate encoding to ensure smooth real-time streaming but may struggle with quality in scenes with fast motion or rapid changes?
+A. .rmvb
+B. .mp4
+C. .avi
+D. .mpg
+Answer: A. .RMVB
+
+[Source: Topic 11-1_21to33.xlsx | Page: 27]
+Q. Which video format is known for its ability to store multiple tracks of video, audio, text, and effects data, and is compatible with both Mac and Windows platforms?
+A. .avi
+B. .mpg
+C. .mov
+D. .wmv
+Answer: C. .MOV
+
+[Source: Topic 11-1_21to33.xlsx | Page: 29]
+Q. What video compression standard is typically incorporated into the .mpg format?
+A. AAC
+B. ADPCM
+C. MPEG-1/MPEG-2
+D. WMA
+Answer: C. MPEG-1/MPEG-2
+
+[Source: Topic 11-1_21to33.xlsx | Page: 28]
+Q. Which file format utilizes separate compression methods for audio and video, using MPEG-4 for video and AAC for audio?
+A. .avi
+B. .mov
+C. .mp4
+D. .mpg
+Answer: C. .MP4
+
+[Source: Topic 11-1_21to33.xlsx | Page: 21]
+Q. As of June 2009, newer .act files could NOT be opened with:
+A. The supplying MP3 player's utilities
+B. Free, standard audio software
+C. Specific conversion software
+D. All of the above
+Answer: B. FREE, STANDARD AUDIO SOFTWARE
+
+[Source: Topic 11-1_21to33.xlsx | Page: 22]
+Q. What is a key difference between .wma and .mp3 audio formats regarding digital rights management?
+A. .wma is developed by Apple, while .mp3 is developed by Microsoft.
+B. .wma supports DRM, while .mp3 does not.
+C. .wma uses a lower compression rate than .mp3.
+D. .wma is primarily used for video, while .mp3 is for audio.
+Answer: B. .WMA SUPPORTS DRM, WHILE .MP3 DOES NOT.
+
+[Source: Topic 11-1_21to33.xlsx | Page: 25]
+Q. Which video format, commonly used on the internet, might require an additional component to play on a non-Windows computer?
+A. .avi
+B. .wmv
+C. .mp4
+D. .mov
+Answer: B. .WMV
+
+[Source: Topic 8_1to11.xlsx | Page: N/A]
+Q. Which of the following statements about JPEG compression is NOT true?
+A. It is commonly used for photographs and other complex still images on the Web.
+B. It takes into account that the human eye is more sensitive to changes in brightness than to the number of colors.
+C. It saves the color data from each pixel in an image.
+D. Using JPEG compression, the creator can decide how much loss to introduce and make a trade-off between file size and image quality.
+Answer: CHOICE C
+
+[Source: Topic 8_1to11.xlsx | Page: N/A]
+Q. Which of the following best describes when lossless compression is preferred?
+A. When dealing with audio files
+B. When a small reduction in file size is acceptable
+C. When the original and decompressed data must be identical
+D. When compressing video for streaming online services
+Answer: CHOICE C
+
+[Source: Topic 8_1to11.xlsx | Page: N/A]
+Q. What is the main difference between RAW image data and a processed image format like JPEG?
+A. RAW files are always smaller than JPEGs.
+B. RAW files contain only black and white information.
+C. RAW files store the image directly from the sensor.
+D. RAW files cannot be opened on a computer.
+Answer: CHOICE C
+
+[Source: Topic 8_1to11.xlsx | Page: N/A]
+Q. Run-length encoding is likely to result in a larger file size than the original if the data:
+A. Contains long sequences of repeating symbols.
+B. Contains a high frequency of single, non-repeating values.
+C. Is already compressed using another method.
+D. Is composed primarily of text characters.
+Answer: CHOICE B
+
+[Source: Topic 8_1to11.xlsx | Page: N/A]
+Q. Which of these file types always uses LZW compression?
+A. JPEG
+B. GIF
+C. RAW
+D. TIFF
+Answer: CHOICE B
+
+[Source: Topic 8_1to11.xlsx | Page: N/A]
+Q. According to the text, which of the following is a key factor in achieving the best data compression?
+A. Using the most complex compression algorithm available.
+B. Understanding the binary representation of the data.
+C. Having a powerful computer with a fast processor.
+D. Knowing how humans perceive and understand the information.
+Answer: CHOICE D
+
+[Source: Topic 8_1to11.xlsx | Page: N/A]
+Q. Which statement BEST explains why RAW image files are significantly larger than JPEGs?
+A. RAW files use a lossless compression method.
+B. RAW files contain more colors than JPEGs can display.
+C. RAW files store data for each pixel without discarding any information.
+D. RAW files are designed for professional photographers and need more detail.
+Answer: CHOICE C
+
+[Source: Topic 8_1to11.xlsx | Page: N/A]
+Q. What makes LZW compression particularly well-suited for compressing text and executable files?
+A. It focuses on removing redundant color information.
+B. It is specifically designed for compressing files that contain a lot of repetitive code.
+C. It uses a dictionary-based approach to identify and replace repeating patterns.
+D. It analyzes the human perception of the data to determine which information is expendable.
+Answer: CHOICE C
+
+[Source: Topic 8_1to11.xlsx | Page: N/A]
+Q. What does the JPEG algorithm specifically take into account when compressing images?
+A. The processing power of the computer displaying the image.
+B. The storage capacity of the device storing the image.
+C. The limitations of human vision in perceiving changes in color.
+D. The speed of the internet connection used to download the image.
+Answer: CHOICE C
+
+[Source: Topic 8_1to11.xlsx | Page: N/A]
+Q. You are downloading a very large image that needs to be a perfect reproduction of the original. Which compression type should you prioritize for this download?
+A. Lossy compression, for faster download speeds
+B. Lossless compression, to ensure no data is lost
+C. Lossy compression, because it produces smaller file sizes
+D. Lossless compression, because it works best for images with patterns
+Answer: CHOICE B
+
+[Source: Topic 8_1to11.xlsx | Page: N/A]
+Q. In the context of data compression, what does "redundant data" refer to?
+A. Data that is unnecessarily large in file size.
+B. Data that is duplicated or unnecessary without affecting the information.
+C. Data that is difficult to compress using standard algorithms.
+D. Data that is no longer needed and can be permanently deleted.
+Answer: CHOICE B
+
+[Source: Chapter 1_1to10_IT33001FP Digital Media Technlogy.xlsx | Page: 4]
+Q. Which of the following is NOT a characteristic of vector-based graphics?
+A. Based on mathematical formulas
+B. Can be scaled without loss of quality
+C. Retains sharpness when magnified
+D. Composed of pixels
+Answer: D. COMPOSED OF PIXELS
+
+[Source: Chapter 1_1to10_IT33001FP Digital Media Technlogy.xlsx | Page: 9]
+Q. In vector graphics, what is the term for a transition between several colors at set distances?
+A. Compound Path
+B. Gradient
+C. Pattern
+D. Knockout
+Answer: B. GRADIENT
+
+[Source: Chapter 1_1to10_IT33001FP Digital Media Technlogy.xlsx | Page: 10]
+Q. What is another term for a knockout in vector graphics?
+A. Gradient
+B. Compound Path
+C. Pattern
+D. Fill
+Answer: B. COMPOUND PATH
+
+[Source: Chapter 1_1to10_IT33001FP Digital Media Technlogy.xlsx | Page: 7]
+Q. How are colors numerically expressed in vector graphics for printing purposes?
+A. RGB values
+B. Hexadecimal codes
+C. Ink density percentages
+D. CMYK values
+Answer: D. CMYK VALUES
+
+[Source: Chapter 1_1to10_IT33001FP Digital Media Technlogy.xlsx | Page: 8]
+Q. What repeating element forms the basis of a pattern in vector graphics?
+A. A single pixel
+B. A mathematical formula
+C. A small group of objects
+D. A gradient blend
+Answer: C. A SMALL GROUP OF OBJECTS
+
+[Source: Chapter 1_1to10_IT33001FP Digital Media Technlogy.xlsx | Page: 9]
+Q. What are the two possible shapes of gradients in vector graphics?
+A. Linear and radial
+B. Square and circular
+C. Solid and dotted
+D. Vertical and horizontal
+Answer: A. LINEAR AND RADIAL
+
+[Source: Chapter 1_1to10_IT33001FP Digital Media Technlogy.xlsx | Page: 6]
+Q. According to the text, which of these is NOT a modifiable characteristic of lines in vector graphics?
+A. Color
+B. Transparency
+C. Thickness
+D. Style
+Answer: B. TRANSPARENCY
+
+[Source: Chapter 1_1to10_IT33001FP Digital Media Technlogy.xlsx | Page: 4]
+Q. What determines the size a vector graphic can be scaled to?
+A. The initial resolution of the image
+B. The capabilities of the design software
+C. The power of the computer rendering the image
+D. There is no limit to how much a vector graphic can be scaled
+Answer: D. THERE IS NO LIMIT TO HOW MUCH A VECTOR GRAPHIC CAN BE SCALED
+
+[Source: Chapter 1_1to10_IT33001FP Digital Media Technlogy.xlsx | Page: 4]
+Q. What makes vector graphics particularly suitable for logos and illustrations that need to be resized frequently?
+A. They use a limited color palette
+B. They are based on mathematical formulas
+C. They can be easily converted to raster images
+D. They load quickly on websites
+Answer: B. THEY ARE BASED ON MATHEMATICAL FORMULAS
+
+[Source: Chapter 1_1to10_IT33001FP Digital Media Technlogy.xlsx | Page: 5]
+Q. In Figure 1, what aspect of vector graphics does the image on the right illustrate?
+A. The use of color gradients
+B. The application of patterns
+C. The underlying mathematical structure
+D. The difference between linear and circular gradients
+Answer: C. THE UNDERLYING MATHEMATICAL STRUCTURE
+
+[Source: Topic 7-1_1to10.xlsx | Page: Page 9]
+Q. Which color mode is best suited for web and electronic publishing?
+A. CMYK
+B. Grayscale
+C. Duotone
+D. RGB
+Answer: CHOICE D: RGB
+
+[Source: Topic 7-1_1to10.xlsx | Page: Page 10]
+Q. How many color channels does a CMYK image use?
+A. 1
+B. 3
+C. 4
+D. 8
+Answer: CHOICE C: 4
+
+[Source: Topic 7-1_1to10.xlsx | Page: Page 10]
+Q. What is a disadvantage of using the CMYK color mode?
+A. Larger file size compared to Grayscale
+B. Produces less vibrant colors compared to RGB
+C. Not suitable for print publications
+D. Limited to 8-bit color depth
+Answer: CHOICE A: LARGER FILE SIZE COMPARED TO GRAYSCALE
+
+[Source: Topic 7-1_1to10.xlsx | Page: Page 7]
+Q. What does RGB stand for in the context of color modes?
+A. Red, Green, Blue
+B. Raster, Gradient, Brightness
+C. Raw, Gamma, Bitmap
+D. Resolution, Graphics, Binary
+Answer: CHOICE A: RED, GREEN, BLUE
+
+[Source: Topic 7-1_1to10.xlsx | Page: Page 5]
+Q. How many shades of gray does an 8-bit grayscale image support?
+A. 2
+B. 16
+C. 256
+D. 65,536
+Answer: CHOICE C: 256
+
+[Source: Topic 7-1_1to10.xlsx | Page: Page 4]
+Q. What type of image is considered a 1-bit image?
+A. Grayscale
+B. RGB
+C. CMYK
+D. Black & White (Bitmap)
+Answer: CHOICE D: BLACK & WHITE (BITMAP)
+
+[Source: Topic 7-1_1to10.xlsx | Page: Page 10]
+Q. Which color mode is MOST suitable for creating a poster for a commercial printing press?
+A. RGB
+B. Indexed Color
+C. Duotone
+D. CMYK
+Answer: CHOICE D: CMYK
+
+[Source: Topic 7-1_1to10.xlsx | Page: Page 7]
+Q. In RGB color mode, what is the intensity value range for each color channel (Red, Green, Blue)?
+A. 0 to 100
+B. 1 to 256
+C. 0 to 255
+D. 0 to 1
+Answer: CHOICE C: 0 TO 255
+
+[Source: Topic 7-1_1to10.xlsx | Page: Page 9]
+Q. Which of the following is a benefit of using RGB for digital design work?
+A. Produces smaller file sizes than CMYK
+B. Ideal for commercial printing
+C. Utilizes subtractive color mixing
+D. Offers a wider range of colors than CMYK
+Answer: CHOICE D: OFFERS A WIDER RANGE OF COLORS THAN CMYK
+
+[Source: Topic 7-1_1to10.xlsx | Page: Page 10]
+Q. What is CMYK color mode also known as?
+A. Additive Color
+B. Reflective Color
+C. Absorptive Color
+D. Subtractive Color
+Answer: CHOICE D: SUBTRACTIVE COLOR
+
+[Source: Topic 9-2.xlsx | Page: 5]
+Q. Which of the following is NOT a method for implementing batch processing in Adobe Lightroom?
+A. Applying Presets in the Develop Module
+B. Applying Presets on Import
+C. Edit in the Library Module
+D. Synchronization Method
+Answer: A: APPLYING PRESETS IN THE DEVELOP MODULE
+
+[Source: Topic 9-2.xlsx | Page: 6]
+Q. According to the document, what is the benefit of applying presets during import in Lightroom?
+A. It allows for finer adjustments to individual photos.
+B. It automatically sorts photos into different categories.
+C. It reduces the need for repetitive manual adjustments.
+D. It enables direct sharing to social media platforms.
+Answer: C: IT REDUCES THE NEED FOR REPETITIVE MANUAL ADJUSTMENTS.
+
+[Source: Topic 9-2.xlsx | Page: 8]
+Q. Which Lightroom module is recommended for batch processing when different presets need to be applied to photos with varying scenes and poses?
+A. Develop Module
+B. Library Module
+C. Print Module
+D. Map Module
+Answer: B: LIBRARY MODULE
+
+[Source: Topic 9-2.xlsx | Page: 12]
+Q. In the Synchronization Method of batch processing, where should fine-tuning adjustments like curve adjustments and gradient filters be made?
+A. Print Module
+B. Library Module
+C. Map Module
+D. Develop Module
+Answer: D: DEVELOP MODULE
+
+[Source: Topic 9-2.xlsx | Page: 9]
+Q. When applying presets in the Library Module, what should you do after selecting the first image in the set?
+A. Immediately click the 'Saved Preset' dropdown menu.
+B. Hold down the Control key and drag to select other photos.
+C. Switch to the Develop Module.
+D. Adjust the exposure and contrast before applying the preset.
+Answer: B: HOLD DOWN THE CONTROL KEY AND DRAG TO SELECT OTHER PHOTOS.
+
+[Source: Topic 9-2.xlsx | Page: 11]
+Q. In the 'Edit in the Library Module' method, how can you better visualize the batch adjustments being applied to your photos?
+A. By switching to the Develop Module.
+B. By applying a preset from the 'Saved Preset' dropdown.
+C. By using the '+' and '-' keys to zoom in and out of the Library view.
+D. By adjusting the contrast and exposure sliders individually for each photo.
+Answer: C: BY USING THE '+' AND '-' KEYS TO ZOOM IN AND OUT OF THE LIBRARY VIEW.
+
+[Source: Topic 9-2.xlsx | Page: 13]
+Q. In the Synchronization Method, which image should remain active after you select multiple images in the filmstrip?
+A. The last image imported
+B. The image with the highest resolution
+C. The first image selected
+D. The image with the preset already applied
+Answer: D: THE IMAGE WITH THE PRESET ALREADY APPLIED
+
+[Source: Topic 9-2.xlsx | Page: 13]
+Q. What does the 'SYNC SETTINGS' button allow you to do in the Synchronization Method?
+A. Automatically import a large number of photos.
+B. Revert all images to their original settings.
+C. Choose specific editing parameters to copy to other photos.
+D. Create a slideshow presentation of the selected images.
+Answer: C: CHOOSE SPECIFIC EDITING PARAMETERS TO COPY TO OTHER PHOTOS.
+
+[Source: Topic 9-2.xlsx | Page: 3]
+Q. What is the main advantage of using batch processing in Lightroom, as described in the passage?
+A. It allows you to share multiple images simultaneously on social media.
+B. It automatically organizes your photos by date and time.
+C. It enables you to edit a large number of photos quickly and efficiently.
+D. It creates a backup of your original photos before any edits are made.
+Answer: C: IT ENABLES YOU TO EDIT A LARGE NUMBER OF PHOTOS QUICKLY AND EFFICIENTLY.
+
+[Source: Topic 9-2.xlsx | Page: 10]
+Q. Which of the following adjustments can be made directly in the Library Module, as part of batch processing?
+A. Curve adjustments
+B. Gradient filters
+C. Lens corrections
+D. White balance
+Answer: D: WHITE BALANCE
+
+[Source: Topic 9-2.xlsx | Page: 6]
+Q. According to the passage, what is a key benefit of applying presets during the import process in Lightroom?
+A. It allows you to immediately share the photos to social media.
+B. It eliminates the need for any further editing.
+C. It helps to automatically categorize your images.
+D. It saves time by automating repetitive adjustments.
+Answer: D: IT SAVES TIME BY AUTOMATING REPETITIVE ADJUSTMENTS.
+
+[Source: Topic 9-2.xlsx | Page: 7]
+Q. Where can you find the 'Apply during import' option in Lightroom?
+A. In the File menu under 'Batch Processing'
+B. On the left panel of the Library Module
+C. On the right panel of the import dialog
+D. In the Develop Module settings
+Answer: C: ON THE RIGHT PANEL OF THE IMPORT DIALOG
+
+[Source: Topic 9-2.xlsx | Page: 10]
+Q. Which batch processing method is most suitable for making broad adjustments to a group of photos in Lightroom, such as exposure, white balance, and contrast?
+A. Applying Presets on Import
+B. Synchronization Method
+C. Cropping and Straightening
+D. Edit in the Library Module
+Answer: D: EDIT IN THE LIBRARY MODULE
+
+[Source: Topic 9-2.xlsx | Page: 6]
+Q. Which of the following best describes the term "preset" in the context of Adobe Lightroom?
+A. A file format for saving high-resolution images
+B. A specific camera setting for capturing the best shot
+C. A collection of pre-determined edits that can be applied to photos
+D. A type of lens filter used to enhance colors
+Answer: C: A COLLECTION OF PRE-DETERMINED EDITS THAT CAN BE APPLIED TO PHOTOS
+
+[Source: Chapter 1_11to20_IT33001FP Digital Media Technlogy.xlsx | Page: 16]
+Q. Which of the following is NOT a characteristic of vector graphics?
+A. Resized and stretched without distortion
+B. Only the formulas are stored
+C. Resolution-independent
+D. Ragged-looking when resized larger
+Answer: D. RAGGED-LOOKING WHEN RESIZED LARGER
+
+[Source: Chapter 1_11to20_IT33001FP Digital Media Technlogy.xlsx | Page: 16]
+Q. What type of graphic is best used for digitized photographs and scanned artwork?
+A. Object Graphics
+B. Vector Graphics
+C. Bitmap Graphics
+D. Compound Graphics
+Answer: C. BITMAP GRAPHICS
+
+[Source: Chapter 1_11to20_IT33001FP Digital Media Technlogy.xlsx | Page: 18]
+Q. What does the acronym "AVI" stand for in the context of digital video?
+A. Audio Visual Interface
+B. Audio Video Interleave
+C. Advanced Video Integration
+D. Animated Visual Implementation
+Answer: B. AUDIO VIDEO INTERLEAVE
+
+[Source: Chapter 1_11to20_IT33001FP Digital Media Technlogy.xlsx | Page: 19]
+Q. Which of the following is a disadvantage of WMV files, particularly in web streaming?
+A. Incompatibility with Windows Media Player
+B. Large file size after compression
+C. Poor video quality due to compression
+D. Inability to be shared via email
+Answer: C. POOR VIDEO QUALITY DUE TO COMPRESSION
+
+[Source: Chapter 1_11to20_IT33001FP Digital Media Technlogy.xlsx | Page: 17]
+Q. What is the function of a "codec" in digital video?
+A. Stores information about the video file
+B. Acts as a container for audio and video data
+C. Compresses and decompresses video data
+D. Synchronizes audio and video playback
+Answer: C. COMPRESSES AND DECOMPRESSES VIDEO DATA
+
+[Source: Chapter 1_11to20_IT33001FP Digital Media Technlogy.xlsx | Page: 14]
+Q. In raster graphics, what determines the number of colors that a pixel can display?
+A. Resolution
+B. Bit depth
+C. File size
+D. Color mode
+Answer: B. BIT DEPTH
+
+[Source: Chapter 1_11to20_IT33001FP Digital Media Technlogy.xlsx | Page: 15]
+Q. What is an "alpha channel" in raster graphics?
+A. A channel representing the color green
+B. A channel used for storing selections
+C. A channel indicating image brightness
+D. A channel determining image resolution
+Answer: B. A CHANNEL USED FOR STORING SELECTIONS
+
+[Source: Chapter 1_11to20_IT33001FP Digital Media Technlogy.xlsx | Page: 10]
+Q. What is a "knockout" in vector graphics?
+A. A method for blending colors smoothly
+B. A technique for creating shadows and highlights
+C. A curve that subtracts from a closed object
+D. A type of gradient fill
+Answer: C. A CURVE THAT SUBTRACTS FROM A CLOSED OBJECT
+
+[Source: Chapter 1_11to20_IT33001FP Digital Media Technlogy.xlsx | Page: 11]
+Q. Which image format is a common choice for saving vector graphics created in software like Adobe Illustrator?
+A. JPG
+B. GIF
+C. EPS
+D. PNG
+Answer: C. EPS
+
+[Source: Chapter 1_11to20_IT33001FP Digital Media Technlogy.xlsx | Page: 12]
+Q. Which of the following statements is TRUE about raster graphics?
+A. They are resolution-independent
+B. They store image data as mathematical formulas
+C. They are typically smaller in file size than vector graphics
+D. They can appear pixelated when scaled up significantly
+Answer: D. THEY CAN APPEAR PIXELATED WHEN SCALED UP SIGNIFICANTLY
+
+[Source: Topic 12-2.xlsx | Page: 4]
+Q. Which audio file format is known for its small file size and ease of sharing online?
+A. AIFF
+B. WAV
+C. RAW
+D. MP3
+Answer: D. MP3
+
+[Source: Topic 12-2.xlsx | Page: 5]
+Q. Which audio file format boasts CD-like quality due to being uncompressed?
+A. MP3
+B. ACT
+C. WAV
+D. AIFF
+Answer: D. AIFF
+
+[Source: Topic 12-2.xlsx | Page: 7]
+Q. Which audio file format is highly associated with potential playback compatibility issues across different devices and software?
+A. AIFF
+B. MP3
+C. WAV
+D. ACT
+Answer: D. ACT
+
+[Source: Topic 12-2.xlsx | Page: 6]
+Q. Which uncompressed audio file format is favored for applications that demand high quality, such as CD production?
+A. RAW
+B. MP3
+C. AIFF
+D. WAV
+Answer: D. WAV
+
+[Source: Topic 12-2.xlsx | Page: 3]
+Q. What is the primary advantage of using RAW audio?
+A. Smaller file size for easy sharing
+B. Wide compatibility across software
+C. Ability to embed metadata
+D. Provides unedited and unprocessed audio
+Answer: D. PROVIDES UNEDITED AND UNPROCESSED AUDIO
+
+[Source: Topic 12-2.xlsx | Page: 3, 5, 6]
+Q. Which of the following is a significant disadvantage of uncompressed audio file formats like RAW, AIFF, and WAV?
+A. They are not widely compatible with media players.
+B. They often have lower sound quality than compressed formats.
+C. They can result in very large file sizes.
+D. They cannot store metadata like album art.
+Answer: C. THEY CAN RESULT IN VERY LARGE FILE SIZES.
+
+[Source: Topic 12-2.xlsx | Page: 4]
+Q. What makes MP3 files suitable for storing large music libraries on devices with limited storage space?
+A. Their ability to store metadata like album art.
+B. Their compatibility with 5.1 Surround Sound systems.
+C. Their high level of security that prevents piracy.
+D. Their small file size due to compression.
+Answer: D. THEIR SMALL FILE SIZE DUE TO COMPRESSION.
+
+[Source: Topic 12-2.xlsx | Page: 4]
+Q. What is a key difference between MP3 and WMA formats, particularly at lower bitrates?
+A. MP3 supports metadata tagging while WMA does not.
+B. MP3 is compatible with more media players than WMA.
+C. WMA generally maintains better sound quality than MP3.
+D. WMA files are typically much larger than MP3 files.
+Answer: C. WMA GENERALLY MAINTAINS BETTER SOUND QUALITY THAN MP3.
+
+[Source: Topic 12-2.xlsx | Page: 4]
+Q. Which audio file format is specifically mentioned as lacking strong security measures, making it susceptible to piracy?
+A. WAV
+B. ACT
+C. MP3
+D. AIFF
+Answer: C. MP3
+
+[Source: Topic 12-2.xlsx | Page: 7]
+Q. According to the document, which audio file format is known to be used primarily with Chinese MP3 and MP4 players, often at their lowest quality setting?
+A. ACT
+B. RAW
+C. AIFF
+D. WMA
+Answer: A. ACT
+
+[Source: Chapter 4_1to10_IT33001FP Digital Media Technlogy.xlsx | Page: 5]
+Q. According to Singapore copyright law, which of the following is NOT a permitted purpose for fair use copying?
+A. Study
+B. Criticism
+C. Reporting current events
+D. Profitable distribution
+Answer: D
+
+[Source: Chapter 4_1to10_IT33001FP Digital Media Technlogy.xlsx | Page: 6]
+Q. What is the maximum percentage of a published work (at least 10 pages long) that can be copied under the "limited use" provision of Singapore copyright law?
+A. 5%
+B. 15%
+C. 10%
+D. 20%
+Answer: C
+
+[Source: Chapter 4_1to10_IT33001FP Digital Media Technlogy.xlsx | Page: 8]
+Q. Even if you are copying content from a website for research or study purposes, what is the most important thing to remember according to the text?
+A. You can only copy content from websites based in Singapore.
+B. You must be a student to copy any content.
+C. You should always credit the original source.
+D. You do not need permission as long as it is for research.
+Answer: C
+
+[Source: Chapter 4_1to10_IT33001FP Digital Media Technlogy.xlsx | Page: 9]
+Q. Which of the following statements about Creative Commons (CC) is TRUE?
+A. Content released under CC licenses is completely free of any copyright restrictions.
+B. CC licenses require you to pay a fee to the creator of the work.
+C. CC allows creators to choose the freedoms they want to grant for the use of their work.
+D. You are not required to attribute work used under a CC license.
+Answer: C
+
+[Source: Chapter 4_1to10_IT33001FP Digital Media Technlogy.xlsx | Page: 10]
+Q. What is the BEST practice when using images found online, even if you have filtered your search for "free-to-use" images?
+A. Assume they are free to use.
+B. Contact the owner of the website where you found the image.
+C. Verify the image's usage rights.
+D. Use the image without attribution.
+Answer: C
+
+[Source: Chapter 4_1to10_IT33001FP Digital Media Technlogy.xlsx | Page: 4]
+Q. According to the text, what is the most important principle of copyright law to remember?
+A. Only certain types of digital media are protected.
+B. You should never use someone else's work without permission.
+C. Works found online are not subject to copyright law.
+D. Copyright protection only lasts for a limited time.
+Answer: B
+
+[Source: Chapter 4_1to10_IT33001FP Digital Media Technlogy.xlsx | Page: 8]
+Q. You find an image on a website and want to use it in your school project. The website doesn't explicitly state the copyright status of the image. What should you do?
+A. Assume it's free to use since the website doesn't say otherwise.
+B. Use the image but don't tell anyone where you found it.
+C. Use only a small portion of the image.
+D. Contact the website owner to request permission to use the image.
+Answer: D
+
+[Source: Chapter 4_1to10_IT33001FP Digital Media Technlogy.xlsx | Page: 9]
+Q. When using a work found online under a Creative Commons (CC) license, what must you always do?
+A. Ask permission from the creator even if the license allows your use.
+B. Pay a fee to use the work even if the license says it's free.
+C. Attribute the creator and identify the specific CC license.
+D. Remove any copyright information associated with the work.
+Answer: C
+
+[Source: Chapter 4_1to10_IT33001FP Digital Media Technlogy.xlsx | Page: 3]
+Q. What type of intellectual property protection does copyright law provide?
+A. Protection for inventions.
+B. Protection for brand names and logos.
+C. Protection for the expression of ideas in a tangible form.
+D. Protection for new plant varieties.
+Answer: C
+
+[Source: Chapter 4_1to10_IT33001FP Digital Media Technlogy.xlsx | Page: 8]
+Q. If you want to use a copyrighted image for a commercial project and your use goes beyond "fair use" guidelines, what is the MOST important step to take?
+A. Use only a small portion of the image.
+B. Credit the source of the image.
+C. Obtain permission from the copyright holder.
+D. Use an image from a free stock photo website.
+Answer: C
+
+[Source: Topic 11-1_1to10.xlsx | Page: 7]
+Q. Which file format is ideal for photographs due to its ability to store up to 24-bit colors?
+A. .gif
+B. .tiff
+C. .jpg
+D. .eps
+Answer: .JPG
+
+[Source: Topic 11-1_1to10.xlsx | Page: 3]
+Q. Which file format is primarily used for editing images and allows saving in layers but is not suitable for output?
+A. .eps
+B. .tiff
+C. .psd
+D. .jpg
+Answer: .PSD
+
+[Source: Topic 11-1_1to10.xlsx | Page: 5]
+Q. Which open image format is known for its ability to be LZW-compressed and handle both RGB and CMYK color modes?
+A. .gif
+B. .bmp
+C. .tiff
+D. .ai
+Answer: .TIFF
+
+[Source: Topic 11-1_1to10.xlsx | Page: 6]
+Q. Which file format is best described as a web-friendly format limited to a maximum of 256 colors?
+A. .pdf
+B. .jpg
+C. .gif
+D. .eps
+Answer: .GIF
+
+[Source: Topic 11-1_1to10.xlsx | Page: 9]
+Q. Which file format is a proprietary format developed by Adobe Systems for vector-based drawings and is commonly used for both print and digital graphics?
+A. .bmp
+B. .ai
+C. .pdf
+D. .eps
+Answer: .AI
+
+[Source: Topic 11-1_1to10.xlsx | Page: 4]
+Q. Which file format is best known for managing both object and pixel graphics, storing halftone screen information, and having different formats for Windows and Macintosh?
+A. .bmp
+B. .tiff
+C. .eps
+D. .psd
+Answer: .EPS
+
+[Source: Topic 11-1_1to10.xlsx | Page: 10]
+Q. Which file format is recognized as the native bitmap format for Microsoft Windows?
+A. .pdf
+B. .jpg
+C. .bmp
+D. .ai
+Answer: .BMP
+
+[Source: Topic 11-1_1to10.xlsx | Page: 8]
+Q. Which file format is recognized for its standardized format, allowing it to be viewed on various platforms, and combines features of both EPS and Photoshop formats?
+A. .jpg
+B. .ai
+C. .pdf
+D. .tiff
+Answer: .PDF
+
+[Source: Topic 11-1_1to10.xlsx | Page: 7]
+Q. Which file format uses a compression format that is also its own image format and is known for being consistent across different operating systems?
+A. .gif
+B. .tiff
+C. .eps
+D. .jpg
+Answer: .JPG
+
+[Source: Topic 11-1_1to10.xlsx | Page: 4]
+Q. Which file format consists of two parts: a low-resolution preview and a PostScript-based image?
+A. .tiff
+B. .eps
+C. .psd
+D. .jpg
+Answer: .EPS
+
+[Source: Chapter 2_IT33001FP Digital Media Technlogy .xlsx | Page: 4]
+Q. Which of the following audio formats is NOT considered lossless?
+A. FLAC
+B. ALAC
+C. WAV
+D. MP3
+Answer: D. MP3
+
+[Source: Chapter 2_IT33001FP Digital Media Technlogy .xlsx | Page: 6]
+Q. Which audio format is known for maintaining its original file size throughout transmission?
+A. MP3
+B. FLAC
+C. WAV
+D. AAC
+Answer: C. WAV
+
+[Source: Chapter 2_IT33001FP Digital Media Technlogy .xlsx | Page: 5]
+Q. Why do audio professionals often prefer lossless audio formats?
+A. Smaller file sizes for easier sharing
+B. Lossless formats are universally compatible
+C. Lossless formats retain all of the original sound waves
+D. Lossless formats have a faster playback speed
+Answer: C. LOSSLESS FORMATS RETAIN ALL OF THE ORIGINAL SOUND WAVES
+
+[Source: Chapter 2_IT33001FP Digital Media Technlogy .xlsx | Page: 3]
+Q. According to the text, which of the following is NOT a reason why audio might be stored and exported in various formats?
+A. Archiving for historical purposes
+B. Preview for client's approval
+C. Final mix delivery
+D. Collaborative work
+Answer: A. ARCHIVING FOR HISTORICAL PURPOSES
+
+[Source: Chapter 2_IT33001FP Digital Media Technlogy .xlsx | Page: 4]
+Q. What is a potential drawback of repeatedly exporting audio using a lossy format like MP3?
+A. The file size will become too large
+B. The audio may become incompatible with certain devices
+C. The audio quality may degrade with each export
+D. The export process will take significantly longer
+Answer: C. THE AUDIO QUALITY MAY DEGRADE WITH EACH EXPORT
+
+[Source: Chapter 2_IT33001FP Digital Media Technlogy .xlsx | Page: 4]
+Q. What does the acronym "AAC" stand for in relation to audio formats?
+A. Audio Arrangement and Compression
+B. Advanced Audio Conversion
+C. Advanced Audio Coding
+D. Apple Audio Codec
+Answer: C. ADVANCED AUDIO CODING
+
+[Source: Chapter 2_IT33001FP Digital Media Technlogy .xlsx | Page: 6]
+Q. Which audio file format is specifically described as remaining the same size from its origin to its destination?
+A. MP3
+B. FLAC
+C. AIFF
+D. PCM
+Answer: D. PCM
+
+[Source: Chapter 2_IT33001FP Digital Media Technlogy .xlsx | Page: 2]
+Q. What is generally true about audio file size and audio quality?
+A. Smaller file size always means better quality
+B. File size and quality are unrelated
+C. Larger file size generally means better quality
+D. Only uncompressed formats have good quality
+Answer: C. LARGER FILE SIZE GENERALLY MEANS BETTER QUALITY
+
+[Source: Chapter 2_IT33001FP Digital Media Technlogy .xlsx | Page: 2]
+Q. What does the term "bitrate" refer to in the context of audio quality?
+A. The number of bits used to represent each sample
+B. The number of audio channels in a file
+C. The amount of audio data processed per second
+D. The frequency range of the audio signal
+Answer: C. THE AMOUNT OF AUDIO DATA PROCESSED PER SECOND
+
+[Source: Chapter 2_IT33001FP Digital Media Technlogy .xlsx | Page: 2]
+Q. Which of the following is a common sample rate used in digital audio?
+A. 128kbps
+B. 16 bit
+C. 44.1kHz
+D. 1.41 Mbps
+Answer: C. 44.1KHZ
+
+[Source: Chapter 3_IT33001FP Digital Media Technlogy .xlsx | Page: 5]
+Q. Which video format is primarily intended for post-production use and is NOT ideal for typical end-users?
+A. AVCHD
+B. H.264
+C. XAVC
+D. Apple ProRes
+Answer: D. APPLE PRORES
+
+[Source: Chapter 3_IT33001FP Digital Media Technlogy .xlsx | Page: 6]
+Q. Which video format is a collaborative effort by Panasonic and Sony, primarily designed for consumer camcorders?
+A. Apple ProRes
+B. H.264
+C. XAVC
+D. AVCHD
+Answer: D. AVCHD
+
+[Source: Chapter 3_IT33001FP Digital Media Technlogy .xlsx | Page: 7]
+Q. Which widely-used video format is known for maintaining good quality while achieving lower bit rates than its predecessors?
+A. XAVC
+B. Apple ProRes
+C. AVCHD
+D. H.264
+Answer: D. H.264
+
+[Source: Chapter 3_IT33001FP Digital Media Technlogy .xlsx | Page: 8]
+Q. What video format, introduced by Sony, caters to a diverse range of applications from professional 4K production to consumer-level online streaming?
+A. AVCHD
+B. Apple ProRes
+C. H.264
+D. XAVC
+Answer: D. XAVC
+
+[Source: Chapter 3_IT33001FP Digital Media Technlogy .xlsx | Page: 3]
+Q. Which type of video file format results in the largest file size?
+A. Lossless Compressed
+B. Lossy Compressed
+C. Uncompressed
+D. AVCHD
+Answer: C. UNCOMPRESSED
+
+[Source: Chapter 3_IT33001FP Digital Media Technlogy .xlsx | Page: 3]
+Q. Which compression format provides a balance between file size and video quality by reducing data while retaining some information?
+A. Uncompressed
+B. Lossy Compressed
+C. AVCHD
+D. Lossless Compressed
+Answer: B. LOSSY COMPRESSED
+
+[Source: Chapter 3_IT33001FP Digital Media Technlogy .xlsx | Page: 3]
+Q. What compression format offers the best balance between minimizing file size and maintaining the original video quality?
+A. H.264
+B. Uncompressed
+C. Lossy Compressed
+D. Lossless Compressed
+Answer: D. LOSSLESS COMPRESSED
+
+[Source: Chapter 3_IT33001FP Digital Media Technlogy .xlsx | Page: 6]
+Q. What video compression standard is ALSO known as MPEG-4 Part 10?
+A. Apple ProRes
+B. Lossy Compressed
+C. XAVC
+D. H.264
+Answer: D. H.264
+
+[Source: Chapter 3_IT33001FP Digital Media Technlogy .xlsx | Page: 7]
+Q. Which of the following video formats supports the HIGHEST resolution video?
+A. AVCHD
+B. Apple ProRes
+C. H.264
+D. XAVC
+Answer: C. H.264
+
+[Source: Chapter 3_IT33001FP Digital Media Technlogy .xlsx | Page: 3]
+Q. What defines how digital audio/video information is organized and stored within a computer file?
+A. Compression Rate
+B. Bit Depth
+C. File Format
+D. Resolution
+Answer: C. FILE FORMAT
+
+[Source: Chapter 3_IT33001FP Digital Media Technlogy .xlsx | Page: 5]
+Q. Apple ProRes is categorized as what type of compression format?
+A. Lossless Compressed
+B. Uncompressed
+C. Low-Resolution
+D. Lossy Compressed
+Answer: D. LOSSY COMPRESSED
+
+[Source: Topic 6_1to10.xlsx | Page: Page 5]
+Q. Which of the following is NOT a technique used to address image anomalies?
+A. Image Manipulation
+B. Image Restoration
+C. Image Enhancement
+D. Image Degradation
+Answer: D. IMAGE DEGRADATION
+
+[Source: Topic 6_1to10.xlsx | Page: Page 8]
+Q. Lossless image compression is characterized by:
+A. Reducing image size with noticeable quality loss
+B. Removing image data that is imperceptible to the human eye
+C. Maintaining original image quality despite size reduction
+D. Being primarily used for professional image editing
+Answer: C. MAINTAINING ORIGINAL IMAGE QUALITY DESPITE SIZE REDUCTION
+
+[Source: Topic 6_1to10.xlsx | Page: Page 10]
+Q. Which of the following is a potential drawback of excessive image compression?
+A. Increased file size
+B. Enhanced image sharpness
+C. Improved color accuracy
+D. Visible loss of image quality
+Answer: D. VISIBLE LOSS OF IMAGE QUALITY
+
+[Source: Topic 6_1to10.xlsx | Page: Page 7]
+Q. What is the primary purpose of image compression in digital media?
+A. To enhance the visual quality of images
+B. To create visually appealing image anomalies
+C. To reduce the storage space required for images
+D. To facilitate the printing of high-resolution images
+Answer: C. TO REDUCE THE STORAGE SPACE REQUIRED FOR IMAGES
+
+[Source: Topic 6_1to10.xlsx | Page: Page 8]
+Q. Which file format is mentioned as an example that utilizes lossless compression?
+A. JPEG
+B. PNG
+C. GIF
+D. BMP
+Answer: C. GIF
+
+[Source: Topic 6_1to10.xlsx | Page: Page 9]
+Q. According to the text, which platform commonly uses lossy image compression?
+A. Online art galleries
+B. Professional photography websites
+C. Medical imaging software
+D. Social media platforms like Facebook
+Answer: D. SOCIAL MEDIA PLATFORMS LIKE FACEBOOK
+
+[Source: Topic 6_1to10.xlsx | Page: Page 3]
+Q. What does digital image processing primarily utilize to manipulate digital images?
+A. Physical brushes and filters
+B. Chemical solutions and darkrooms
+C. Computer algorithms
+D. Manual tracing techniques
+Answer: C. COMPUTER ALGORITHMS
+
+[Source: Topic 6_1to10.xlsx | Page: Page 3]
+Q. What happens to the original image during digital image processing?
+A. It is permanently altered.
+B. It is completely discarded.
+C. It is combined with other images.
+D. It is preserved and remains unchanged.
+Answer: D. IT IS PRESERVED AND REMAINS UNCHANGED.
+
+[Source: Topic 6_1to10.xlsx | Page: Page 6]
+Q. Which of the following best describes image enhancement in digital image processing?
+A. Reducing the file size of an image
+B. Making an image blurry to hide details
+C. Improving the visual appeal of an image
+D. Converting an image to grayscale
+Answer: C. IMPROVING THE VISUAL APPEAL OF AN IMAGE
+
+[Source: Topic 6_1to10.xlsx | Page: Page 10]
+Q. What is a common visual artifact that can occur when an image is compressed too aggressively?
+A. Increased color depth
+B. Enhanced fine details
+C. The appearance of "blockiness" or pixelation
+D. A smoothing effect that reduces noise
+Answer: C. THE APPEARANCE OF "BLOCKINESS" OR PIXELATION
+
+[Source: Topic 7-1_11to21.xlsx | Page: 16]
+Q. Which color mode helps reduce file size while maintaining image quality, making it suitable for web use?
+A. RGB
+B. CMYK
+C. Indexed color
+D. Duotone
+Answer: CHOICE C
+
+[Source: Topic 7-1_11to21.xlsx | Page: 14]
+Q. What is the term for the technique used in indexed color mode to simulate a wider range of colors using a limited palette?
+A. Dithering
+B. Duotone
+C. Color reduction
+D. Browser safe colors
+Answer: CHOICE A
+
+[Source: Topic 7-1_11to21.xlsx | Page: 14]
+Q. According to the document, what is the maximum number of colors supported in indexed color mode after converting from a 16 million color RGB image?
+A. 216
+B. 16
+C. 32
+D. 256
+Answer: CHOICE D
+
+[Source: Topic 7-1_11to21.xlsx | Page: 12]
+Q. Duotone mode can be a cost-effective printing option. How many printing colors does a duotone image utilize?
+A. 1
+B. 2
+C. 3
+D. 4
+Answer: CHOICE B
+
+[Source: Topic 7-1_11to21.xlsx | Page: 19]
+Q. When converting an image from RGB to Indexed Color mode, what bit depth per channel is required for the starting image?
+A. 1-bit
+B. 4-bit
+C. 8-bit
+D. 16-bit
+Answer: CHOICE C
+
+[Source: Topic 7-1_11to21.xlsx | Page: 16]
+Q. Which color mode is MOST suitable for creating a full-color poster intended for professional printing?
+A. RGB
+B. CMYK
+C. Indexed Color
+D. Duotone
+Answer: CHOICE B
+
+[Source: Topic 7-1_11to21.xlsx | Page: 17]
+Q. When converting a black and white image to Duotone in an image editing software, what is the first step you would typically take?
+A. Change the mode directly to Duotone
+B. Convert the image to Grayscale
+C. Adjust the contrast and brightness
+D. Invert the image colors
+Answer: CHOICE B
+
+[Source: Topic 7-1_11to21.xlsx | Page: 12]
+Q. What is the primary reason a designer might choose to use Duotone mode for an image?
+A. To optimize the image for web use
+B. To create an image with millions of colors
+C. To reduce file size for faster loading
+D. To add depth or a stylistic effect
+Answer: CHOICE D
+
+[Source: Topic 7-1_11to21.xlsx | Page: 15]
+Q. After converting a 16-color indexed image back to full RGB mode, what would be the impact on the image's quality?
+A. Quality would significantly improve
+B. Quality would remain the same
+C. Quality would slightly decrease
+D. Quality would degrade significantly
+Answer: CHOICE B
+
+[Source: Topic 7-1_11to21.xlsx | Page: 11]
+Q. In CMYK color mode, how are different colors created?
+A. By mixing varying levels of light
+B. By using a limited set of 256 colors
+C. By assigning percentages to color channels
+D. By using combinations of black and white
+Answer: CHOICE C
+
+[Source: Topic 7-1_11to21.xlsx | Page: 14]
+Q. What is a potential drawback of converting an RGB image to Indexed color mode?
+A. The file size may become too large
+B. The image may lose its transparency
+C. The image may exhibit some color distortion
+D. The image may become pixelated
+Answer: CHOICE C
+
+[Source: Topic 7-1_11to21.xlsx | Page: 20]
+Q. When preparing an image for use on a website, why might a designer choose "Browser Safe Colors"?
+A. To ensure the image displays with the widest possible range of colors
+B. To reduce the file size of the image
+C. To avoid color discrepancies across different browsers and monitors
+D. To enhance the image's sharpness and clarity
+Answer: CHOICE C
+
+[Source: Topic 7-1_11to21.xlsx | Page: 16]
+Q. You are designing a website and need to choose a color mode for your images that will ensure smaller file sizes without sacrificing image quality. Which color mode would be the MOST suitable in this scenario?
+A. RGB
+B. CMYK
+C. Indexed Color
+D. Duotone
+Answer: CHOICE C
+
+[Source: Topic 7-1_11to21.xlsx | Page: 14]
+Q. What is the MAIN purpose of dithering in Indexed Color mode?
+A. To reduce the number of colors in an image
+B. To create the illusion of more colors using a limited palette
+C. To compress the image file size
+D. To enhance the sharpness of the image
+Answer: CHOICE B
+
+[Source: Topic 7-1_11to21.xlsx | Page: 13]
+Q. Besides Duotone (2 colors), what other variations of multi-tone printing are mentioned in the document?
+A. Tritone and Quadtone
+B. Monotone and Sextone
+C. Bitmap and Vector
+D. CMYK and RGB
+Answer: CHOICE A
+
+[Source: Topic 7-1_11to21.xlsx | Page: 12]
+Q. According to the document, which color mode is specifically designed for achieving a vintage aesthetic or enhancing the depth of black and white images?
+A. CMYK
+B. Duotone
+C. Indexed Color
+D. Browser Safe Colors
+Answer: CHOICE B
+
+[Source: Topic 7-1_11to21.xlsx | Page: 14]
+Q. When converting an image from RGB to Indexed Color, a reduction in the number of colors occurs.  Approximately how many colors are represented in a typical RGB image before this conversion takes place?
+A. 16 million
+B. 256
+C. 216
+D. 2
+Answer: CHOICE A
+
+[Source: Topic 7-1_11to21.xlsx | Page: 19, 20]
+Q. You are working on a project that requires consistent color display across various web browsers and monitors. Which color palette, as mentioned in the document, would best address this requirement?
+A. System (MacOS)
+B. System (Windows)
+C. Web
+D. Uniform
+Answer: CHOICE C
+
+[Source: Topic 7-1_11to21.xlsx | Page: 13, 16]
+Q. If a designer wants to minimize printing costs while still incorporating color, which color mode would be the MOST economical choice for their project, according to the information presented in the document?
+A. RGB
+B. CMYK
+C. Duotone
+D. Indexed Color
+Answer: CHOICE C
+
+[Source: Topic 7-1_11to21.xlsx | Page: 16]
+Q. What is the recommended color mode for images intended for use in digital publications or online platforms, as discussed in the document?
+A. CMYK
+B. RGB
+C. Indexed Color
+D. Duotone
+Answer: CHOICE B
+
+[Source: Topic 7-1_11to21.xlsx | Page: 17]
+Q. When converting an image from Black & White to Duotone, which intermediate color mode does the document suggest using as part of the conversion process?
+A. Indexed Color
+B. Grayscale
+C. RGB
+D. CMYK
+Answer: CHOICE B
+
+[Source: Topic 7-1_11to21.xlsx | Page: 12, 16]
+Q. A designer is working on a limited budget project and needs to print a color image with the fewest possible ink colors. Which color mode, as described in the document, would be the MOST cost-effective for this situation?
+A. CMYK
+B. Indexed Color
+C. Duotone
+D. RGB
+Answer: CHOICE C
+
+[Source: Topic 7-1_11to21.xlsx | Page: 20]
+Q. According to the document, how many colors are considered "Browser Safe" and suitable for consistent display across different web browsers and monitors with 8-bit color depth?
+A. 16 million
+B. 256
+C. 216
+D. 16
+Answer: CHOICE C
+
+[Source: Topic 7-1_11to21.xlsx | Page: 19]
+Q. When converting an image from RGB to Indexed Color mode, what is the required bit depth per channel for the starting image, as specified in the document?
+A. 1-bit
+B. 4-bit
+C. 8-bit
+D. 16-bit
+Answer: CHOICE C
+
+[Source: Topic 7-1_11to21.xlsx | Page: 16]
+Q. Which statement BEST describes the advantage of using Indexed Color mode for images intended for web use, as discussed in the document?
+A. It allows for the use of a wider range of colors than RGB.
+B. It helps reduce file size while preserving image quality.
+C. It enhances the resolution and sharpness of images.
+D. It enables the use of more than two ink colors during printing.
+Answer: CHOICE B
+
+[Source: Topic 7-1_11to21.xlsx | Page: 15]
+Q. If you convert a 16-color Indexed Color image back to full RGB, what will be the outcome, according to the information provided in the document?
+A. The image quality will improve.
+B. The file size will decrease.
+C. The file size will increase, but the image quality will not improve.
+D. The image will be displayed in grayscale.
+Answer: CHOICE C
+
+[Source: Topic 7-1_11to21.xlsx | Page: 19]
+Q. Before converting an image to Indexed Color mode, the document specifies that it should be in either RGB or what other color mode?
+A. CMYK
+B. Duotone
+C. Grayscale
+D. Browser Safe Colors
+Answer: CHOICE C
+
+[Source: Topic 7-1_11to21.xlsx | Page: 11, 16]
+Q. What is the primary difference between RGB and CMYK color modes, as explained in the document?
+A. RGB is additive, while CMYK is subtractive.
+B. RGB is for print, while CMYK is for digital.
+C. RGB uses fewer colors than CMYK.
+D. RGB is for black and white images, while CMYK is for color.
+Answer: CHOICE A
+
+[Source: Topic 7-1_11to21.xlsx | Page: 20]
+Q. Which of the following statements about "Browser Safe Colors" is TRUE according to the document?
+A. They are only viewable on Macintosh computers.
+B. They represent the full spectrum of 16 million colors.
+C. They ensure consistent color display on different 8-bit monitors.
+D. They are primarily used for printing high-quality images.
+Answer: CHOICE C
+
+[Source: Topic 7-1_11to21.xlsx | Page: 17]
+Q. When converting a Black & White image to Duotone in image editing software, what is the FIRST step outlined in the document?
+A. Adjust the brightness and contrast of the image.
+B. Convert the image to Grayscale mode.
+C. Choose the two desired ink colors for the Duotone effect.
+D. Apply a sharpening filter to enhance image details.
+Answer: CHOICE B
+
+[Source: Topic 7-1_11to21.xlsx | Page: 16]
+Q. When preparing an image for a high-quality, full-color brochure to be professionally printed, which color mode would be the MOST appropriate to use, according to the document?
+A. RGB
+B. CMYK
+C. Indexed Color
+D. Duotone
+Answer: CHOICE B
+
+[Source: Topic 7-1_11to21.xlsx | Page: 14]
+Q. In the context of Indexed Color mode, what is the purpose of dithering, as explained in the document?
+A. To compress the image file size.
+B. To increase the number of colors in the image.
+C. To enhance the sharpness and clarity of the image.
+D. To simulate a wider range of colors with a limited palette.
+Answer: CHOICE D
+
+[Source: Topic 7-1_11to21.xlsx | Page: 17]
+Q. Imagine you are converting an image from Black & White to Duotone mode. After converting the image to Grayscale, what is the NEXT step in the process, as outlined in the document?
+A. Adjust the brightness and contrast.
+B. Choose the two desired ink colors for the Duotone effect.
+C. Switch the image mode from Grayscale to Duotone.
+D. Sharpen the image to enhance details and edges.
+Answer: CHOICE C
+
+[Source: Chapter 4_10to18_IT33001FP Digital Media Technlogy.xlsx | Page: 11]
+Q. Which of the following is not a type of right granted by all Creative Commons Licenses?
+A. The right to modify the work.
+B. The right to distribute the work worldwide.
+C. The right to use the work for commercial purposes.
+D. The right to use the work for non-commercial purposes.
+Answer: C. THE RIGHT TO USE THE WORK FOR COMMERCIAL PURPOSES.
+
+[Source: Chapter 4_10to18_IT33001FP Digital Media Technlogy.xlsx | Page: 10]
+Q. According to the text, which Google tool can be used to find images that can be used without infringing copyright?
+A. Google Maps
+B. Google Drive
+C. Google Scholar
+D. Google Advanced Image Search
+Answer: D. GOOGLE ADVANCED IMAGE SEARCH
+
+[Source: Chapter 4_10to18_IT33001FP Digital Media Technlogy.xlsx | Page: 10]
+Q. What does the text recommend doing even when using images filtered as "free-to-use"?
+A. Using the image without attribution.
+B. Contacting the original creator for permission.
+C. Verifying if the image is truly free to use.
+D. Using only a portion of the image.
+Answer: C. VERIFYING IF THE IMAGE IS TRULY FREE TO USE.
+
+[Source: Chapter 4_10to18_IT33001FP Digital Media Technlogy.xlsx | Page: 11]
+Q. How many main types of Creative Commons Licenses (CCL) are there?
+A. 4
+B. 5
+C. 6
+D. 7
+Answer: C. 6
+
+[Source: Chapter 4_10to18_IT33001FP Digital Media Technlogy.xlsx | Page: 12]
+Q. Where in Google's Advanced Image Search can you specify usage rights to find Creative Commons Licensed images?
+A. Under the "Image size" filter.
+B. Under the "Color" filter.
+C. Under the "File type" filter.
+D. Under the "Usage rights" filter.
+Answer: D. UNDER THE "USAGE RIGHTS" FILTER.
+
+[Source: Chapter 4_10to18_IT33001FP Digital Media Technlogy.xlsx | Page: 14]
+Q. Which of the following is NOT considered a "Literary Work" according to the text's examples of types of copyright?
+A. Song Lyrics
+B. Source Code
+C. Photographs
+D. Books
+Answer: C. PHOTOGRAPHS
+
+[Source: Chapter 4_10to18_IT33001FP Digital Media Technlogy.xlsx | Page: 17]
+Q. How long does copyright protection typically last for a published literary work?
+A. 25 years from publication
+B. 50 years from the creator's death
+C. 70 years from the creator's death
+D. 100 years from publication
+Answer: C. 70 YEARS FROM THE CREATOR'S DEATH
+
+[Source: Chapter 4_10to18_IT33001FP Digital Media Technlogy.xlsx | Page: 16]
+Q. Which of the following describes "Synchronization Rights" within copyright law?
+A. The right to publicly perform a musical work.
+B. The right to make physical copies of a recording.
+C. The right to use a recording in a television commercial.
+D. The right to use a recording as part of a film's soundtrack.
+Answer: D. THE RIGHT TO USE A RECORDING AS PART OF A FILM'S SOUNDTRACK.
+
+[Source: Topic 7-3_1to10.xlsx | Page: N/A]
+Q. Which color combination would make a shape appear the largest?
+A. Light yellow on dark blue
+B. Dark blue on light yellow
+C. Red on orange
+D. White on black
+Answer: A
+
+[Source: Topic 7-3_1to10.xlsx | Page: N/A]
+Q. Which color combination results in a dull appearance due to low contrast?
+A. Red on orange
+B. Red on blue
+C. White on black
+D. Light yellow on dark blue
+Answer: A
+
+[Source: Topic 7-3_1to10.xlsx | Page: N/A]
+Q. Adding double the amount of yellow (100%) to blue (50%) will result in what color?
+A. Green
+B. Yellow-green
+C. Blue-green
+D. Yellow
+Answer: B
+
+[Source: Topic 7-3_1to10.xlsx | Page: N/A]
+Q. According to the text, which color can increase anger and stress when overused?
+A. Red
+B. Blue
+C. Yellow
+D. White
+Answer: A
+
+[Source: Topic 7-3_1to10.xlsx | Page: N/A]
+Q. Why does a red circle appear more vibrant against a blue background than an orange background?
+A. Red is a brighter color
+B. Blue makes red appear larger
+C. The contrast between the colors is high
+D. Orange is too similar to red
+Answer: C
+
+[Source: Topic 7-3_1to10.xlsx | Page: N/A]
+Q. According to the text, which of the following statements is TRUE about how color impacts our perception of size?
+A. Dark colors make shapes appear smaller.
+B. Bright colors make shapes appear smaller.
+C. Color has no effect on the perceived size of a shape.
+D. All colors make shapes appear the same size, regardless.
+Answer: A
+
+[Source: Topic 7-3_1to10.xlsx | Page: N/A]
+Q. Which of the following techniques helps to draw the viewer's attention to a particular spot within a composition, according to the text?
+A. Using a single, bright color throughout
+B. Maintaining consistent contrast and saturation levels
+C. Varying the contrast, values, and saturation of elements
+D. Placing elements of similar values together
+Answer: C
+
+[Source: Topic 7-3_1to10.xlsx | Page: N/A]
+Q. What makes it difficult for our eyes to focus on a particular spot in Figures 6a and 6b?
+A. The use of too many different colors.
+B. The shapes of the blocks are uniform.
+C. The lack of contrast between elements.
+D. The dominance of high-value blocks.
+Answer: C
+
+[Source: Topic 7-3_1to10.xlsx | Page: N/A]
+Q. In Figure 6c, which area is more dominant and why?
+A. The darker area, due to high contrast.
+B. The lighter area, due to high contrast.
+C. The darker area, due to larger combined area.
+D. The lighter area, due to smaller combined area.
+Answer: B
+
+[Source: Topic 7-3_1to10.xlsx | Page: N/A]
+Q. Besides mood, what other aspect of human experience can be influenced by color, according to the text?
+A. Geographic location
+B. Thought processes
+C. Appetite
+D. Physical strength
+Answer: C
+
+[Source: Topic 7-3_1to10.xlsx | Page: N/A]
+Q. What determines the resulting color when mixing yellow and blue, according to the text?
+A. The type of paint used.
+B. The ambient temperature.
+C. The proportions of each color.
+D. The saturation of each color.
+Answer: C
+
+[Source: Topic 7-3_1to10.xlsx | Page: N/A]
+Q. What is the main learning objective of the chapter, as stated on page 2?
+A. To create visually appealing designs.
+B. To understand color management systems.
+C. To recognize color behavior and types.
+D. To analyze the emotional impact of color.
+Answer: C
+
+[Source: Topic 7-3_1to10.xlsx | Page: N/A]
+Q. On which background would a red circle appear largest, according to the information on page 3?
+A. Orange
+B. Blue
+C. Black
+D. All backgrounds make it appear the same size.
+Answer: C
+
+[Source: Chapter 1_21to30_IT33001FP Digital Media Technlogy.xlsx | Page: 20]
+Q. Which video format is known for its high quality and large file size, commonly associated with Macintosh users?
+A. .mp4
+B. .avi
+C. .mov
+D. .wmv
+Answer: C. .MOV
+
+[Source: Chapter 1_21to30_IT33001FP Digital Media Technlogy.xlsx | Page: 24]
+Q. Which image file format is primarily used on the web and is always in indexed color mode?
+A. .bmp
+B. .gif
+C. .tiff
+D. .psd
+Answer: B. .GIF
+
+[Source: Chapter 1_21to30_IT33001FP Digital Media Technlogy.xlsx | Page: 28]
+Q. Which font format was specifically designed by Microsoft for web use to address copyright issues with other formats?
+A. TrueType Font (TTF)
+B. OpenType (OTF)
+C. Embedded OpenType (EOT)
+D. Web Open Font Format (WOFF)
+Answer: C. EMBEDDED OPENTYPE (EOT)
+
+[Source: Chapter 1_21to30_IT33001FP Digital Media Technlogy.xlsx | Page: 24]
+Q. Which of the following image file formats is best known for its ability to handle CMYK color mode and is often preferred for professional printing purposes?
+A. .gif
+B. .bmp
+C. .tiff
+D. .jpg
+Answer: C. .TIFF
+
+[Source: Chapter 1_21to30_IT33001FP Digital Media Technlogy.xlsx | Page: 29]
+Q. What is the primary advantage of using the Web Open Font Format (WOFF) for fonts on websites?
+A. Enhanced color support
+B. Smaller file size, leading to faster loading times
+C. Improved compatibility with older browsers
+D. Support for animations within the font
+Answer: B. SMALLER FILE SIZE, LEADING TO FASTER LOADING TIMES
+
+[Source: Chapter 1_21to30_IT33001FP Digital Media Technlogy.xlsx | Page: 25]
+Q. Which file format would be MOST suitable for a graphic designer who needs to work with an image that supports both pixel-based editing and vector-based objects for a website banner?
+A. .jpg
+B. .gif
+C. .psd
+D. .ai
+Answer: D. .AI
+
+[Source: Chapter 1_21to30_IT33001FP Digital Media Technlogy.xlsx | Page: 21]
+Q. A student wants to share a short video project online. They need a format that offers good compression for smaller file sizes while maintaining decent visual and audio quality. Which format would be MOST suitable for this purpose?
+A. .mov
+B. .avi
+C. .mp4
+D. .wmv
+Answer: C. .MP4
+
+[Source: Chapter 1_21to30_IT33001FP Digital Media Technlogy.xlsx | Page: 24]
+Q. Which image file format is considered an open format for pixel-based images and is known for its ability to handle both RGB and CMYK color modes?
+A. .eps
+B. .psd
+C. .gif
+D. .tiff
+Answer: D. .TIFF
+
+[Source: Chapter 1_21to30_IT33001FP Digital Media Technlogy.xlsx | Page: 24]
+Q. Which file format is primarily associated with Adobe Photoshop and is used to save images with layers for further editing?
+A. .eps
+B. .gif
+C. .bmp
+D. .psd
+Answer: D. .PSD
+
+[Source: Chapter 1_21to30_IT33001FP Digital Media Technlogy.xlsx | Page: 27]
+Q. What is the main difference between the TrueType Font (TTF) format and the OpenType (OTF) format?
+A. TTF is used for print, while OTF is used for screen display.
+B. OTF is a proprietary format, while TTF is open source.
+C. OTF is an older format, and TTF is a newer standard.
+D. OTF supports more features, like expanded character sets and multiple platforms.
+Answer: D.  OTF SUPPORTS MORE FEATURES, LIKE EXPANDED CHARACTER SETS AND MULTIPLE PLATFORMS.
+
+[Source: Topic 6_11to17.xlsx | Page: 11]
+Q. Which of the following statements about JPEG compression is incorrect?
+A. It stands for Joint Photographic Experts Group.
+B. It allows users to adjust the level of compression.
+C. At the lowest compression levels, the file size is reduced to about 1/10th of the original.
+D. It is a lossless compression method.
+Answer: D
+
+[Source: Topic 6_11to17.xlsx | Page: 16]
+Q. What is the purpose of Geometric Restoration in digital image processing?
+A. To adjust the color components of an image.
+B. To sharpen blurry images.
+C. To remove unwanted noise and artifacts from an image.
+D. To correct spatial distortions within an image.
+Answer: D
+
+[Source: Topic 6_11to17.xlsx | Page: 10]
+Q. According to the text, what happens when an image is compressed too much?
+A. The file size becomes too large to store.
+B. The image becomes sharper and more detailed.
+C. The compression becomes lossless.
+D. The image loses quality and sharpness.
+Answer: D
+
+[Source: Topic 6_11to17.xlsx | Page: 13]
+Q. Which of the following is NOT listed as a technique of Image Restoration?
+A. Blur Removal
+B. Geometric Restoration
+C. Color Balancing
+D. Image Compression
+Answer: D
+
+[Source: Topic 6_11to17.xlsx | Page: 11]
+Q. What does JPEG stand for in the context of digital images?
+A. Joint Photographic Exposure Group
+B. Joint Photographic Experts Group
+C. Joined Pixel Enhancement Grid
+D. Joint Picture Encoding Graphics
+Answer: B
+
+[Source: Topic 6_11to17.xlsx | Page: 14]
+Q. What type of blur is Blur Removal typically used to address in digital images?
+A. Lens flare blur
+B. Gaussian blur
+C. Motion blur and defocus blur
+D. All of the above
+Answer: C
+
+[Source: Topic 6_11to17.xlsx | Page: 11]
+Q. At the lowest levels of JPEG compression, how much can the file size be reduced without visible loss to the human eye?
+A. 1/2 of its original size
+B. 1/5 of its original size
+C. 1/10 of its original size
+D. The file size doesn't change at the lowest level.
+Answer: C
+
+[Source: Topic 6_11to17.xlsx | Page: 13]
+Q. What is the primary aim of Image Restoration in digital image processing?
+A. To reduce file size.
+B. To enhance the aesthetic qualities of an image.
+C. To reverse the effects of image degradation.
+D. To prepare images for printing.
+Answer: C
+
+[Source: Topic 6_11to17.xlsx | Page: 16]
+Q. When an image exhibits a tilted horizon or objects appearing stretched or skewed, what type of Image Restoration would be most appropriate to correct these issues?
+A. Blur Removal
+B. Color Balancing
+C. Geometric Restoration
+D. None of the above
+Answer: C
+
+[Source: Topic 6_11to17.xlsx | Page: 15]
+Q. Which image processing technique would be most suitable for correcting an image that appears overly red or blue in its overall tone?
+A. Blur Removal
+B. Geometric Restoration
+C. Color Balancing
+D. Image Compression
+Answer: C
+
+[Source: Topic 10.xlsx | Page: N/A]
+Q. Which of the following is NOT a method of acquiring audio files mentioned in the document?
+A. Purchase albums from CD stores
+B. Extract audio from existing video files
+C. Recording from an analogue sound card with a microphone
+D. Download images and store them for future use
+Answer: CHOICE D
+
+[Source: Topic 10.xlsx | Page: N/A]
+Q. According to the document, what resolution is considered ideal for displaying images on a computer monitor or TV?
+A. 100 dpi
+B. 300 dpi
+C. 72 dpi
+D. Resolution doesn't impact display quality.
+Answer: CHOICE C
+
+[Source: Topic 10.xlsx | Page: N/A]
+Q. Which animation technique is also known as "animation without camera"?
+A. Traditional animation
+B. 2D animation
+C. Drawn-on-film animation
+D. Stop motion
+Answer: CHOICE C
+
+[Source: Topic 10.xlsx | Page: N/A]
+Q. What software is mentioned as a tool for creating 2D animation?
+A. Adobe Premiere Pro
+B. Adobe Photoshop
+C. Autodesk Maya
+D. Adobe Audition
+Answer: CHOICE B
+
+[Source: Topic 10.xlsx | Page: N/A]
+Q. What is the name of the process in 3D animation where a digital skeleton is used to control a mesh?
+A. Morphing
+B. Rotoscoping
+C. Rigging
+D. Motion Capture
+Answer: CHOICE C
+
+[Source: Topic 10.xlsx | Page: N/A]
+Q. In traditional animation, what are the transparent acetate sheets that animators draw on called?
+A. Cels
+B. Rotoscopes
+C. Storyboards
+D. Frames
+Answer: CHOICE A
+
+[Source: Topic 10.xlsx | Page: N/A]
+Q. Which of the following is NOT listed as a constraint of digital imaging?
+A. Generation loss
+B. File size
+C. Quality of source
+D. Resolution
+Answer: CHOICE B
+
+[Source: Topic 10.xlsx | Page: N/A]
+Q. What is the definition of "resolution" in digital images?
+A. The number of colors displayed in an image.
+B. The clarity and sharpness of an image.
+C. The level of compression applied.
+D. The number of pixels an image contains.
+Answer: CHOICE D
+
+[Source: Topic 10.xlsx | Page: N/A]
+Q. According to the document, what was the first feature-length film entirely created and rendered using 3D graphics?
+A. A Bug's Life
+B. Jurassic Park
+C. Toy Story (1995, USA)
+D. Terminator 2: Judgment Day
+Answer: CHOICE C
+
+[Source: Topic 10.xlsx | Page: N/A]
+Q. When acquiring images from the web, what is important to consider regarding their use?
+A. The file format of the image.
+B. The website's terms of service or copyright notices.
+C. The resolution of the image.
+D. The image's overall size in kilobytes or megabytes.
+Answer: CHOICE B
+
+[Source: Topic 10.xlsx | Page: N/A]
+Q. What does the document say about the relationship between image resolution and storage space?
+A. Higher resolutions always result in clearer images.
+B. Lower resolutions should always be avoided.
+C. Higher resolutions take up more space.
+D. Image resolution has no impact on storage space requirements.
+Answer: CHOICE C
+
+[Source: Topic 10.xlsx | Page: N/A]
+Q. In digital imaging, what is "generation loss"?
+A. Degradation of image quality over multiple saves
+B. Loss of data when converting between file formats.
+C. Deterioration of image quality when scaled to a larger size.
+D. Loss of image quality when an image is converted to binary data.
+Answer: CHOICE D
+
+[Source: Topic 10.xlsx | Page: N/A]
+Q. When considering storage space for digital images, what situation might make choosing a lower resolution advantageous?
+A. When you need the highest image quality possible.
+B. When you are working with images that will be printed.
+C. When storage space is limited and image quality is not critical.
+D. When you need to be able to zoom in on the image with no loss.
+Answer: CHOICE C
+
+[Source: Topic 12-1_11to18.xlsx | Page: 12]
+Q. What is a significant disadvantage of the TIFF file format?
+A. It cannot be LZW-compressed.
+B. It only supports grayscale images.
+C. It has a large file size.
+D. It is incompatible with Photoshop.
+Answer: C. IT HAS A LARGE FILE SIZE.
+
+[Source: Topic 12-1_11to18.xlsx | Page: 14]
+Q. Which file format is specifically designed for editing images in layers?
+A. BMP
+B. TIFF
+C. PSD
+D. AI
+Answer: C. PSD
+
+[Source: Topic 12-1_11to18.xlsx | Page: 13]
+Q. Which file format is known for its ability to store information about print prerequisites, like color?
+A. BMP
+B. TIFF
+C. PSD
+D. AI
+Answer: B. TIFF
+
+[Source: Topic 12-1_11to18.xlsx | Page: 17]
+Q. Which file format is best described as a versatile format suitable for delivering print documents?
+A. BMP
+B. PSD
+C. AI
+D. PDF
+Answer: D. PDF
+
+[Source: Topic 12-1_11to18.xlsx | Page: 12]
+Q. Which file format is known for its potential to create large file sizes, posing challenges for file transfer and storage?
+A. BMP
+B. TIFF
+C. PSD
+D. PDF
+Answer: B. TIFF
+
+[Source: Topic 12-1_11to18.xlsx | Page: 11]
+Q. What is a key advantage of using the BMP file format?
+A. Small file size
+B. Supports LZW-compression
+C. Provides a realistic image display
+D. Preserves layers for easy editing
+Answer: C. PROVIDES A REALISTIC IMAGE DISPLAY
+
+[Source: Topic 12-1_11to18.xlsx | Page: 11]
+Q. Which statement best describes a limitation of the BMP file format?
+A. It is not widely supported.
+B. It cannot handle complex color gradients.
+C. It produces excessively large file sizes.
+D. It often loses clarity when resized.
+Answer: D. IT OFTEN LOSES CLARITY WHEN RESIZED.
+
+[Source: Topic 12-1_11to18.xlsx | Page: 17]
+Q. What is a potential drawback of distributing documents in PDF format?
+A. PDFs can be incompatible with some operating systems.
+B. PDFs require specialized software for creation.
+C. PDFs can have slower download speeds compared to HTML.
+D. PDFs often lose image quality during compression.
+Answer: C. PDFS CAN HAVE SLOWER DOWNLOAD SPEEDS COMPARED TO HTML.
+
+[Source: Topic 12-3_11to16.xlsx | Page: 14]
+Q. Which video file format is known for being particularly small in size, making it suitable for use on smartphones?
+A. MPEG-1
+B. MP4
+C. 3GP
+D. RMVB
+Answer: C. 3GP
+
+[Source: Topic 12-3_11to16.xlsx | Page: 12]
+Q. Which MPEG standard is specifically mentioned as being suitable for creating video CDs?
+A. MPEG-2
+B. MPEG-4
+C. MPEG-1
+D. MPEG-3
+Answer: C. MPEG-1
+
+[Source: Topic 12-3_11to16.xlsx | Page: 11]
+Q. Which video file format is described as not ideal for editing due to potential compatibility issues with video editing software?
+A. 3GP
+B. MPEG-4
+C. MP4
+D. RMVB
+Answer: C. MP4
+
+[Source: Topic 12-3_11to16.xlsx | Page: 15]
+Q. Real Media (RMVB) is considered less suitable for streaming videos with:
+A. Slow motion
+B. Complex audio
+C. Static scenes
+D. Fast motion
+Answer: D. FAST MOTION
+
+[Source: Topic 12-3_11to16.xlsx | Page: 14]
+Q. Which of the following is a disadvantage of the 3GP video file format?
+A. Large file size
+B. Limited playback compatibility
+C. Poor audio and video quality
+D. Unsuitable for internet transmission
+Answer: C. POOR AUDIO AND VIDEO QUALITY
+
+[Source: Topic 12-3_11to16.xlsx | Page: 12]
+Q. Which MPEG standard is described as having a good balance of quality and file size, making it suitable for editing?
+A. MPEG-1
+B. MPEG-2
+C. MPEG-3
+D. MPEG-4
+Answer: D. MPEG-4
+
+[Source: Chapter 5_IT33001FP Digital Media Technlogy .xlsx | Page: 8]
+Q. Which of the following is NOT a common audio format used in multimedia?
+A. MP3
+B. WAV
+C. JPEG
+D. MIDI
+Answer: C. JPEG
+
+[Source: Chapter 5_IT33001FP Digital Media Technlogy .xlsx | Page: 9]
+Q. According to the text, which of the following is a benefit of streaming digital videos?
+A. It improves video quality.
+B. It allows for interactive elements.
+C. It increases the speed of playback.
+D. It reduces the file size of the video.
+Answer: C. IT INCREASES THE SPEED OF PLAYBACK.
+
+[Source: Chapter 5_IT33001FP Digital Media Technlogy .xlsx | Page: 7]
+Q. Which two software programs are mentioned as being able to create "high tech visual effects" for images?
+A. Paint.NET and GIF
+B. Photoshop and Paint.NET
+C. JPEG and PNG
+D. MPEG and AVI
+Answer: B. PHOTOSHOP AND PAINT.NET
+
+[Source: Chapter 5_IT33001FP Digital Media Technlogy .xlsx | Page: 10]
+Q. According to the text, which multimedia element is particularly effective at capturing the attention of younger audiences?
+A. Text
+B. Audio
+C. Images
+D. Animation
+Answer: D. ANIMATION
+
+[Source: Chapter 5_IT33001FP Digital Media Technlogy .xlsx | Page: 6]
+Q. Which of the following file formats is associated with text in the context of multimedia elements?
+A. MP3
+B. PNG
+C. GIF
+D. Sans-serif
+Answer: D. SANS-SERIF
+
+[Source: Chapter 5_IT33001FP Digital Media Technlogy .xlsx | Page: 8]
+Q. What is the primary method of delivering audio files in a multimedia presentation?
+A. Through streaming services only.
+B. Directly embedded in the main file.
+C. Using plug-in media players.
+D. By converting them to text files.
+Answer: C. USING PLUG-IN MEDIA PLAYERS.
+
+[Source: Chapter 5_IT33001FP Digital Media Technlogy .xlsx | Page: 3]
+Q. According to the text, what is the definition of 'digital media'?
+A. Any data represented by a series of digits.
+B. Methods of broadcasting or communicating information.
+C. Mediums of digitized information broadcast through a screen and/or speaker.
+D. Text, audio, video, and graphics transmitted over the internet.
+Answer: C. MEDIUMS OF DIGITIZED INFORMATION BROADCAST THROUGH A SCREEN AND/OR SPEAKER.
+
+[Source: Chapter 5_IT33001FP Digital Media Technlogy .xlsx | Page: 8]
+Q. Why might a developer compress an audio file?
+A. To improve the audio quality.
+B. To make it compatible with more media players.
+C. To shorten the download time.
+D. To add visual elements to the audio.
+Answer: C. TO SHORTEN THE DOWNLOAD TIME.
+
+[Source: Chapter 5_IT33001FP Digital Media Technlogy .xlsx | Page: 9]
+Q. What is the main reason developers use video in multimedia presentations?
+A. To provide background music.
+B. To display complex data visually.
+C. To hold the viewer's attention.
+D. To showcase animation skills.
+Answer: C. TO HOLD THE VIEWER'S ATTENTION.
+
+[Source: Chapter 5_IT33001FP Digital Media Technlogy .xlsx | Page: 5]
+Q. Which of the following is NOT considered a multimedia element according to the text?
+A. Software
+B. Animation
+C. Text
+D. Images
+Answer: A. SOFTWARE
+
+[Source: Chapter 5_IT33001FP Digital Media Technlogy .xlsx | Page: 5]
+Q. Which of these is a key characteristic of multimedia, differentiating it from other forms of communication?
+A. It uses digital technology for creation and distribution.
+B. It combines different media elements into a single presentation.
+C. It relies heavily on visual elements like images and videos.
+D. It is often interactive, allowing user participation.
+Answer: B. IT COMBINES DIFFERENT MEDIA ELEMENTS INTO A SINGLE PRESENTATION.
+
+[Source: Chapter 5_IT33001FP Digital Media Technlogy .xlsx | Page: 10]
+Q. What is the most widely used format for animation?
+A. A. GIF
+B. B. MP4
+C. C. JPEG
+D. D. WMV
+Answer: A. GIF
+
